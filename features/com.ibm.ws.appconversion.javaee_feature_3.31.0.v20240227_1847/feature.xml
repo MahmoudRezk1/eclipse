@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* ***************************************************************** */
+/* Licensed Materials - Property of IBM                              */
+/* (C) Copyright IBM Corp. 2016, 2024. All Rights Reserved.          */
+/*                                                                   */
+/* US Government Users Restricted Rights - Use, duplication or       */
+/* disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
+/* ***************************************************************** */
+-->
+<feature id="com.ibm.ws.appconversion.javaee_feature" label="%featureName" license-feature="com.ibm.ws.migrationtoolkit.license.feature" plugin="com.ibm.ws.appconversion.javaee" provider-name="%providerName" license-feature-version="24.0.0.1" version="3.31.0.v20240227_1847">
+<license url="%licenseURL" >
+      %license
+  </license>
+    <description>
+      %description
+   </description>
+    <copyright>
+      %copyright
+   </copyright>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.javaee" install-size="0" unpack="false" version="1.27.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.javaee.nl1" install-size="0" unpack="false" version="1.27.0.v20240227_1847"/>
+</feature>

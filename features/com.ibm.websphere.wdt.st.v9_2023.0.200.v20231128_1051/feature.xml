@@ -1,0 +1,56 @@
+<feature id="com.ibm.websphere.wdt.st.v9" label="%FeatureName" provider-name="IBM" version="2023.0.200.v20231128_1051">
+
+   <description>
+      %General
+   </description>
+
+   <copyright>
+      %Copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes id="com.ibm.wdt.install.feature" version="1.0.3.v20231128_1051"/>
+
+   <includes id="com.ibm.wdt.preferences.feature" version="1.0.201.v20231128_1051"/>
+
+   <includes id="com.ibm.osgi.wdt.v9.feature" version="1.1.0.v20231128_1051"/>
+
+   <requires>
+      <import feature="com.ibm.debug.jython.feature" match="greaterOrEqual" version="7.2.340"/>
+<!--      <import feature="com.ibm.etools.webservice.discovery.core" version="7.0.450" match="greaterOrEqual"/> -->
+      <import feature="com.ibm.jee.was.descriptors.feature" match="greaterOrEqual" version="1.0.100"/>
+      <import feature="com.ibm.jee.was.descriptors.ui.feature" match="greaterOrEqual" version="1.0.1"/>
+      <import feature="com.ibm.ws.ast.base.common" match="greaterOrEqual" version="1.0.100"/>
+      <import feature="com.ibm.ws.ast.batch.common" match="greaterOrEqual" version="2.0.0"/>
+      <import feature="com.ibm.ws.ast.jythontools" match="greaterOrEqual" version="6.1.200"/>
+      <import feature="com.ibm.ws.ast.rad.tools" match="greaterOrEqual" version="1.1.100"/>
+<!--      <import feature="com.ibm.xwt.ws.common.feature" version="1.0.101" match="greaterOrEqual"/> -->
+      <import feature="com.ibm.websphere.wdt.st.common" match="greaterOrEqual" version="1.0.100"/>
+      <import feature="com.ibm.wdt.javaee.feature" match="greaterOrEqual" version="1.0.300"/>
+      <import feature="com.ibm.wdt.doc.feature" match="greaterOrEqual" version="1.0.2"/>
+      <import feature="org.eclipse.emf.converter" match="greaterOrEqual" version="2.6.0"/>
+      <import feature="org.eclipse.emf.ecore" match="greaterOrEqual" version="2.6.1"/>
+      <import feature="org.eclipse.emf.edit" match="greaterOrEqual" version="2.6.0"/>
+      <import feature="org.eclipse.jdt" match="greaterOrEqual" version="3.6.2"/>
+      <import feature="org.eclipse.jst.enterprise_core.feature" match="greaterOrEqual" version="3.2.3"/>
+      <import feature="org.eclipse.jst.server_core.feature" match="greaterOrEqual" version="3.2.0"/>
+      <import feature="org.eclipse.jst.web_core.feature" match="greaterOrEqual" version="3.2.3"/>
+      <import feature="org.eclipse.platform" match="greaterOrEqual" version="3.6.2"/>
+      <import feature="org.eclipse.rcp" match="greaterOrEqual" version="3.6.2"/>
+      <import feature="org.eclipse.wst.common_core.feature" match="greaterOrEqual" version="3.2.3"/>
+      <import feature="org.eclipse.wst.server_core.feature" match="greaterOrEqual" version="3.2.3"/>
+      <import feature="org.eclipse.wst.server_ui.feature" match="greaterOrEqual" version="3.2.3"/>
+      <import feature="org.eclipse.wst.xml_core.feature" match="greaterOrEqual" version="3.2.3"/>
+      <import feature="com.ibm.websphere.wdt.product.site.fe" match="greaterOrEqual" version="1.0.200"/>
+      <import feature="com.ibm.ws.st.jee.tools.feature" match="greaterOrEqual" version="1.0.0"/>
+      <import feature="com.ibm.ws.ast.rat.v9.runtime" match="greaterOrEqual" version="1.0.0"/>
+      <import feature="com.ibm.ws.ast.rat.v9.common" match="greaterOrEqual" version="1.0.0"/>
+      <import feature="com.ibm.websphere.ast.st.v9.wdt.fe" match="greaterOrEqual" version="1.0.0"/>
+      <import feature="com.ibm.ws.ast.wst.v9" match="greaterOrEqual" version="1.0.0"/>
+      <import feature="com.ibm.ws.ast.rat.v9.webservices" match="greaterOrEqual" version="1.0.0"/>
+   </requires>
+
+</feature>

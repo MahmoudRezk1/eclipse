@@ -1,0 +1,20 @@
+<feature id="com.ibm.ws.ast.wst.v9" label="%featureName" provider-name="IBM" version="2.0.202.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <!-- This emitter plugin is also in com.ibm.ws.ast.wsfp.v85 -->
+   <plugin download-size="0" id="com.ibm.ast.ws.jaxws.emitter.jws22.v85" install-size="0" version="2.0.101.v20231128_1051"/>
+         
+   <plugin download-size="0" id="com.ibm.ast.ws.was9.policyset.ui" install-size="0" unpack="false" version="2.0.100.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ast.ws.jaxws.annotations.v9" install-size="0" unpack="false" version="2.0.1.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ast.ws.jaxws.samples" install-size="0" unpack="false" version="2.0.0.v20231128_1051"/>
+
+</feature>

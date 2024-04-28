@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1714256737838" transient="false" version="3.0">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="com.ibm.ws.st.tools.common.ui" version="1.0.27.v20231128_1051" url="features/com.ibm.ws.st.tools.common.ui_1.0.27.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.emf.edit" version="2.22.0.v20231208-1346" url="features/org.eclipse.emf.edit_2.22.0.v20231208-1346/">
+		</feature>
+		<feature id="org.eclipse.emf.codegen.ecore.ui" version="2.37.0.v20231206-0758" url="features/org.eclipse.emf.codegen.ecore.ui_2.37.0.v20231206-0758/">
+		</feature>
+		<feature id="org.eclipse.jst.web_userdoc.feature" version="3.6.1.v202309190220" url="features/org.eclipse.jst.web_userdoc.feature_3.6.1.v202309190220/">
+		</feature>
+		<feature id="org.eclipse.epp.mpc" version="1.10.3.v20240228-1000" url="features/org.eclipse.epp.mpc_1.10.3.v20240228-1000/" plugin-identifier="org.eclipse.epp.mpc.ui">
+		</feature>
+		<feature id="org.eclipse.jst.server_adapters.ext.feature" version="3.4.900.v202402192305" url="features/org.eclipse.jst.server_adapters.ext.feature_3.4.900.v202402192305/">
+		</feature>
+		<feature id="org.eclipse.jst.enterprise_ui.feature" version="3.33.0.v202401080452" url="features/org.eclipse.jst.enterprise_ui.feature_3.33.0.v202401080452/" plugin-identifier="org.eclipse.jst.jee.ui">
+		</feature>
+		<feature id="com.ibm.wdt.doc.feature" version="1.0.2.v20231128_1051" url="features/com.ibm.wdt.doc.feature_1.0.2.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.emf.codegen" version="2.24.0.v20230211-1150" url="features/org.eclipse.emf.codegen_2.24.0.v20230211-1150/">
+		</feature>
+		<feature id="com.ibm.ws.ast.rat.v9.webservices" version="1.0.201.v20231128_1051" url="features/com.ibm.ws.ast.rat.v9.webservices_1.0.201.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.wst.server_core.feature" version="3.4.0.v202311141839" url="features/org.eclipse.wst.server_core.feature_3.4.0.v202311141839/">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.oda.designer.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.oda.designer.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.oda.xml.ui">
+		</feature>
+		<feature id="org.eclipse.wst.web_userdoc.feature" version="3.18.0.v202004271556" url="features/org.eclipse.wst.web_userdoc.feature_3.18.0.v202004271556/">
+		</feature>
+		<feature id="com.ibm.rsar.compatibility.feature" version="8.0.0.202005151438" url="features/com.ibm.rsar.compatibility.feature_8.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.jst.server_ui.feature" version="3.4.500.v202401292331" url="features/org.eclipse.jst.server_ui.feature_3.4.500.v202401292331/">
+		</feature>
+		<feature id="com.ibm.websphere.ast.st.v9.wdt.fe" version="1.1.1.v20231128_1051" url="features/com.ibm.websphere.ast.st.v9.wdt.fe_1.1.1.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.501.v20230507-1921" url="features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20230507-1921/">
+		</feature>
+		<feature id="com.ibm.ccl.ua.wizards.feature" version="1.2.2.v20130508_2218" url="features/com.ibm.ccl.ua.wizards.feature_1.2.2.v20130508_2218/">
+		</feature>
+		<feature id="com.ibm.osgi.cshelp.feature" version="1.5.0.v20130517_1801" url="features/com.ibm.osgi.cshelp.feature_1.5.0.v20130517_1801/">
+		</feature>
+		<feature id="org.eclipse.mylyn.team.feature" version="4.2.0.v20240220-1733" url="features/org.eclipse.mylyn.team.feature_4.2.0.v20240220-1733/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.emf.mapping.ecore" version="2.14.0.v20230211-1150" url="features/org.eclipse.emf.mapping.ecore_2.14.0.v20230211-1150/">
+		</feature>
+		<feature id="com.ibm.jee.jpa.core.feature.eclipse43" version="1.400.251.v20231128_1051" url="features/com.ibm.jee.jpa.core.feature.eclipse43_1.400.251.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jst.common.fproj.enablement.jdt" version="3.29.0.v202308161955" url="features/org.eclipse.jst.common.fproj.enablement.jdt_3.29.0.v202308161955/" plugin-identifier="org.eclipse.jst.common.project.facet.core">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.commandline.feature" version="7.4.100.202005151438" url="features/com.ibm.xtools.analysis.commandline.feature_7.4.100.202005151438/">
+		</feature>
+		<feature id="org.eclipse.jst.server_adapters.feature" version="3.33.0.v202401292308" url="features/org.eclipse.jst.server_adapters.feature_3.33.0.v202401292308/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping" version="2.15.0.v20230211-1150" url="features/org.eclipse.emf.mapping_2.15.0.v20230211-1150/">
+		</feature>
+		<feature id="com.ibm.etools.aries.ui.feature" version="1.7.600.v20231128_1051" url="features/com.ibm.etools.aries.ui.feature_1.7.600.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.repositories.feature" version="4.2.0.v20240203-1124" url="features/org.eclipse.mylyn.commons.repositories.feature_4.2.0.v20240203-1124/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.discovery.feature" version="1.3.300.v20240201-0843" url="features/org.eclipse.equinox.p2.discovery.feature_1.3.300.v20240201-0843/">
+		</feature>
+		<feature id="org.eclipse.oomph.p2" version="1.29.0.v20240120-1356" url="features/org.eclipse.oomph.p2_1.29.0.v20240120-1356/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping.ui" version="2.15.0.v20230211-1150" url="features/org.eclipse.emf.mapping.ui_2.15.0.v20230211-1150/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping.ecore.editor" version="2.16.0.v20230211-1150" url="features/org.eclipse.emf.mapping.ecore.editor_2.16.0.v20230211-1150/">
+		</feature>
+		<feature id="org.eclipse.m2e.wtp.feature" version="1.6.1.20231024-1618" url="features/org.eclipse.m2e.wtp.feature_1.6.1.20231024-1618/" plugin-identifier="org.eclipse.m2e.wtp">
+		</feature>
+		<feature id="org.eclipse.eclemma.feature" version="3.1.8.202312121452" url="features/org.eclipse.eclemma.feature_3.1.8.202312121452/" plugin-identifier="org.eclipse.eclemma.ui">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.ingres.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.ingres.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.globalization.feature.nls1" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.globalization.feature.nls1_8.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.etools.webtools.json.feature" version="1.0.100.v20231128_1051" url="features/com.ibm.etools.webtools.json.feature_1.0.100.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.st.tools" version="1.0.910.v20210629_1728" url="features/com.ibm.ws.st.tools_1.0.910.v20210629_1728/">
+		</feature>
+		<feature id="org.eclipse.m2e.lemminx.feature" version="2.0.600.20240219-1707" url="features/org.eclipse.m2e.lemminx.feature_2.0.600.20240219-1707/">
+		</feature>
+		<feature id="org.eclipse.datatools.sdk.feature" version="1.16.1.202403060734" url="features/org.eclipse.datatools.sdk.feature_1.16.1.202403060734/" plugin-identifier="org.eclipse.datatools.sdk">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.architecturaldiscovery.java.feature" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.architecturaldiscovery.java.feature_8.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.datatools.connectivity.doc.user" version="1.15.0.202311071249" url="features/org.eclipse.datatools.connectivity.doc.user_1.15.0.202311071249/">
+		</feature>
+		<feature id="com.ibm.ws.ast.batch.webservices" version="2.100.101.v20231128_1051" url="features/com.ibm.ws.ast.batch.webservices_2.100.101.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.view.feature" version="11.5.0.202312281935" url="features/org.eclipse.tm.terminal.view.feature_11.5.0.202312281935/" plugin-identifier="org.eclipse.tm.terminal.view.ui">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.oracle.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.oracle.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.msft.feature" version="1.16.0.202311071307" url="features/org.eclipse.datatools.enablement.msft.feature_1.16.0.202311071307/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="org.eclipse.mylyn.monitor.feature" version="4.2.0.v20240203-1124" url="features/org.eclipse.mylyn.monitor.feature_4.2.0.v20240203-1124/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="com.ibm.etools.common.migration.feature" version="1.1.0.v20231128_1051" url="features/com.ibm.etools.common.migration.feature_1.1.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.migrationtoolkit.cloud.feature" version="3.38.0.v20240227_1847" url="features/com.ibm.ws.migrationtoolkit.cloud.feature_3.38.0.v20240227_1847/">
+		</feature>
+		<feature id="com.ibm.etools.webservice.gsc.feature" version="1.0.300.v20231128_1051" url="features/com.ibm.etools.webservice.gsc.feature_1.0.300.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.websphere.wdt.st.common" version="1.0.400.v20231128_1051" url="features/com.ibm.websphere.wdt.st.common_1.0.400.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.wdt.preferences.feature" version="1.0.201.v20231128_1051" url="features/com.ibm.wdt.preferences.feature_1.0.201.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.connectivity.oda.designer.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.connectivity.oda.designer.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.connectivity.oda.design.ui">
+		</feature>
+		<feature id="org.eclipse.emf.codegen.ui" version="2.25.0.v20230211-1150" url="features/org.eclipse.emf.codegen.ui_2.25.0.v20230211-1150/">
+		</feature>
+		<feature id="com.ibm.xwt.ws.common.feature" version="1.100.0.v20231128_1051" url="features/com.ibm.xwt.ws.common.feature_1.100.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.ast.rat.v9.common" version="1.1.102.v20231128_1051" url="features/com.ibm.ws.ast.rat.v9.common_1.1.102.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.etools.slickui.feature" version="1.1.100.v20231128_1051" url="features/com.ibm.etools.slickui.feature_1.1.100.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.commandline.feature.nls1" version="7.3.1.202005151438" url="features/com.ibm.xtools.analysis.commandline.feature.nls1_7.3.1.202005151438/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.feature" version="1.16.0.202403060703" url="features/org.eclipse.datatools.sqldevtools.feature_1.16.0.202403060703/" plugin-identifier="org.eclipse.datatools.sqltools.common.ui">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.feature" version="9.0.0.202005151438" url="features/com.ibm.rsaz.analysis.feature_9.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.etools.aries.rad.ext.ui.feature" version="1.6.2.v20231128_1051" url="features/com.ibm.etools.aries.rad.ext.ui.feature_1.6.2.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.debug.jython.feature" version="7.2.400.v20150205_2035" url="features/com.ibm.debug.jython.feature_7.2.400.v20150205_2035/">
+		</feature>
+		<feature id="org.eclipse.wst.json_core.feature" version="1.1.9.v202308160419" url="features/org.eclipse.wst.json_core.feature_1.1.9.v202308160419/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature_1.15.0.202311071249/">
+		</feature>
+		<feature id="com.ibm.rsar.analysis.reporting.feature" version="9.0.1.202005151438" url="features/com.ibm.rsar.analysis.reporting.feature_9.0.1.202005151438/">
+		</feature>
+		<feature id="com.ibm.websphere.wdt.st.v9" version="2023.0.200.v20231128_1051" url="features/com.ibm.websphere.wdt.st.v9_2023.0.200.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.37.0.v20240203-0859" url="features/org.eclipse.emf.ecore_2.37.0.v20240203-0859/">
+		</feature>
+		<feature id="com.ibm.etools.annotations.javaee.feature" version="1.0.301.v20231128_1051" url="features/com.ibm.etools.annotations.javaee.feature_1.0.301.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.j2se.feature" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.j2se.feature_8.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.jpt.common.feature" version="1.5.200.v202308172102" url="features/org.eclipse.jpt.common.feature_1.5.200.v202308172102/" plugin-identifier="org.eclipse.jpt.common.branding">
+		</feature>
+		<feature id="com.ibm.rsar.analysis.xml.feature" version="6.0.0.202005151438" url="features/com.ibm.rsar.analysis.xml.feature_6.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore.editor" version="2.19.0.v20230224-1122" url="features/org.eclipse.emf.ecore.editor_2.19.0.v20230224-1122/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient5.feature" version="1.1.702.v20231114-1017" url="features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.702.v20231114-1017/">
+		</feature>
+		<feature id="org.eclipse.mylyn.tasks.feature" version="4.2.0.v20240305-1805" url="features/org.eclipse.mylyn.tasks.feature_4.2.0.v20240305-1805/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.datatools.modelbase.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.modelbase.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.modelbase.sql">
+		</feature>
+		<feature id="org.eclipse.wildwebdeveloper.embedder.node.feature" version="1.0.7.202310251358" url="features/org.eclipse.wildwebdeveloper.embedder.node.feature_1.0.7.202310251358/">
+		</feature>
+		<feature id="org.eclipse.mylyn.reviews.feature" version="4.2.0.v20240207-0731" url="features/org.eclipse.mylyn.reviews.feature_4.2.0.v20240207-0731/" plugin-identifier="org.eclipse.mylyn.reviews.core">
+		</feature>
+		<feature id="org.eclipse.wst.common_ui.feature" version="3.31.0.v202308161955" url="features/org.eclipse.wst.common_ui.feature_3.31.0.v202308161955/">
+		</feature>
+		<feature id="org.eclipse.wst.xsl.feature" version="1.3.1500.v202307260701" url="features/org.eclipse.wst.xsl.feature_1.3.1500.v202307260701/" plugin-identifier="org.eclipse.wst.xsl">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.sqlbuilder.feature" version="1.16.0.202403060703" url="features/org.eclipse.datatools.sqldevtools.sqlbuilder.feature_1.16.0.202403060703/">
+		</feature>
+		<feature id="org.eclipse.wst.server_adapters.feature" version="3.33.0.v202401292308" url="features/org.eclipse.wst.server_adapters.feature_3.33.0.v202401292308/">
+		</feature>
+		<feature id="com.ibm.ws.ast.base.common" version="1.3.1.v20231128_1051" url="features/com.ibm.ws.ast.base.common_1.3.1.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.st.was.tools.common.ui" version="1.0.3.v2023-11-27_1918" url="features/com.ibm.ws.st.was.tools.common.ui_1.0.3.v2023-11-27_1918/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.4.2300.v20240220-1431" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.2300.v20240220-1431/">
+		</feature>
+		<feature id="com.ibm.etools.aries.maven.ui.feature" version="1.5.200.v20231128_1051" url="features/com.ibm.etools.aries.maven.ui.feature_1.5.200.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.etools.restapi.documentation.feature" version="1.0.601.v20231128_1051" url="features/com.ibm.etools.restapi.documentation.feature_1.0.601.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.ddl.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.sqldevtools.ddl.feature_1.15.0.202311071249/">
+		</feature>
+		<feature id="org.eclipse.m2e.wtp.jsf.feature" version="1.6.1.20231024-1618" url="features/org.eclipse.m2e.wtp.jsf.feature_1.6.1.20231024-1618/" plugin-identifier="org.eclipse.m2e.wtp.jsf">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.sqlite.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.sqlite.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.globalization.feature" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.globalization.feature_8.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.j2se.feature.nls1" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.j2se.feature.nls1_8.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.support.trace.feature" version="1.0.200.v20231128_1051" url="features/com.ibm.support.trace.feature_1.0.200.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.wst.json_ui.feature" version="1.1.11.v202308160419" url="features/org.eclipse.wst.json_ui.feature_1.1.11.v202308160419/" plugin-identifier="org.eclipse.wst.json.ui">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.notifications.feature" version="4.2.0.v20240203-1124" url="features/org.eclipse.mylyn.commons.notifications.feature_4.2.0.v20240203-1124/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.apache.derby.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.apache.derby.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.sybase">
+		</feature>
+		<feature id="org.eclipse.datatools.doc.user" version="1.16.0.202311071249" url="features/org.eclipse.datatools.doc.user_1.16.0.202311071249/">
+		</feature>
+		<feature id="org.eclipse.jdt.bcoview.feature" version="1.2.300.v20240118-1157" url="features/org.eclipse.jdt.bcoview.feature_1.2.300.v20240118-1157/">
+		</feature>
+		<feature id="org.eclipse.pde" version="3.15.300.v20240229-0520" url="features/org.eclipse.pde_3.15.300.v20240229-0520/">
+		</feature>
+		<feature id="org.eclipse.wst.server_userdoc.feature" version="3.3.300.v201901310132" url="features/org.eclipse.wst.server_userdoc.feature_3.3.300.v201901310132/">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.architecture.feature" version="7.1.0.202005151438" url="features/com.ibm.rsaz.analysis.architecture.feature_7.1.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.m2e.wtp.jpa.feature" version="1.6.1.20231024-1618" url="features/org.eclipse.m2e.wtp.jpa.feature_1.6.1.20231024-1618/" plugin-identifier="org.eclipse.m2e.wtp.jpa">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclientjava.feature" version="2.0.200.v20231114-1017" url="features/org.eclipse.ecf.filetransfer.httpclientjava.feature_2.0.200.v20231114-1017/">
+		</feature>
+		<feature id="com.ibm.etools.aries.websphere.v9.core.feature" version="1.0.0.v20231128_1051" url="features/com.ibm.etools.aries.websphere.v9.core.feature_1.0.0.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.sdk.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.sdk.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.jdbc.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.jdbc.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.sybase">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.postgresql.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.postgresql.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="org.eclipse.oomph.setup.core" version="1.30.0.v20240211-0940" url="features/org.eclipse.oomph.setup.core_1.30.0.v20240211-0940/">
+		</feature>
+		<feature id="org.eclipse.mylyn.pde.feature" version="4.2.0.v20240220-1733" url="features/org.eclipse.mylyn.pde.feature_4.2.0.v20240220-1733/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.emf.ecore.edit" version="2.16.0.v20230211-1150" url="features/org.eclipse.emf.ecore.edit_2.16.0.v20230211-1150/">
+		</feature>
+		<feature id="com.ibm.etools.annotations.feature" version="1.0.413.v20231128_1051" url="features/com.ibm.etools.annotations.feature_1.0.413.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.rrd.feature" version="3.23.0.v20240227_1847" url="features/com.ibm.rrd.feature_3.23.0.v20240227_1847/">
+		</feature>
+		<feature id="com.ibm.ws.appconversion.liberty2cloud_feature" version="3.31.0.v20240227_1847" url="features/com.ibm.ws.appconversion.liberty2cloud_feature_3.31.0.v20240227_1847/" plugin-identifier="com.ibm.ws.appconversion.liberty2cloud">
+		</feature>
+		<feature id="com.ibm.ws.ast.base.jpa.eclipse43" version="1.400.200.v20231128_1051" url="features/com.ibm.ws.ast.base.jpa.eclipse43_1.400.200.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.codereview.java.feature" version="8.0.0.202005151438" url="features/com.ibm.rsaz.analysis.codereview.java.feature_8.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.hsqldb.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.hsqldb.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="org.eclipse.datatools.sqltools.doc.user" version="1.15.0.202311071249" url="features/org.eclipse.datatools.sqltools.doc.user_1.15.0.202311071249/">
+		</feature>
+		<feature id="org.eclipse.jgit.ssh.apache" version="6.9.0.202403050737-r" url="features/org.eclipse.jgit.ssh.apache_6.9.0.202403050737-r/">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.31.0.v20240229-1022" url="features/org.eclipse.platform_4.31.0.v20240229-1022/">
+		</feature>
+		<feature id="com.ibm.xwt.dde.feature" version="1.0.601.v2023-11-27_1918" url="features/com.ibm.xwt.dde.feature_1.0.601.v2023-11-27_1918/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.31.0.v20240227-1638" url="features/org.eclipse.e4.rcp_4.31.0.v20240227-1638/">
+		</feature>
+		<feature id="com.ibm.propertygroup.feature" version="6.6.201.v20231128_1051" url="features/com.ibm.propertygroup.feature_6.6.201.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature" version="2.8.0.v202307262303" url="features/org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature_2.8.0.v202307262303/">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.security.feature" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.security.feature_8.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.websphere.wdt.dependency.eclipse47" version="1.0.1.v20231128_1051" url="features/com.ibm.websphere.wdt.dependency.eclipse47_1.0.1.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.intro" version="1.15.0.202311071249" url="features/org.eclipse.datatools.intro_1.15.0.202311071249/">
+		</feature>
+		<feature id="com.ibm.etools.wtp.extensions.feature" version="1.0.200.v20231128_1051" url="features/com.ibm.etools.wtp.extensions.feature_1.0.200.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.gef" version="3.19.0.202402212051" url="features/org.eclipse.gef_3.19.0.202402212051/">
+		</feature>
+		<feature id="org.eclipse.emf.databinding" version="1.11.0.v20231208-1346" url="features/org.eclipse.emf.databinding_1.11.0.v20231208-1346/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.31.0.v20240229-0520" url="features/org.eclipse.rcp_4.31.0.v20240229-0520/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_userdoc.feature" version="3.18.0.v202004271556" url="features/org.eclipse.wst.xml_userdoc.feature_3.18.0.v202004271556/">
+		</feature>
+		<feature id="org.eclipse.jst.ws.jaxws.feature" version="1.2.1000.v202311280000" url="features/org.eclipse.jst.ws.jaxws.feature_1.2.1000.v202311280000/" plugin-identifier="org.eclipse.jst.ws.jaxws.core">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.402.v20231021-2127" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.402.v20231021-2127/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.results.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.sqldevtools.results.feature_1.15.0.202311071249/">
+		</feature>
+		<feature id="com.ibm.wdt.ast.ws.tools.feature" version="2023.0.200.v20231128_1051" url="features/com.ibm.wdt.ast.ws.tools.feature_2023.0.200.v20231128_1051/" plugin-identifier="com.ibm.etools.webservice.was.core">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.1900.v20230715-1945" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1900.v20230715-1945/">
+		</feature>
+		<feature id="org.eclipse.jst.server_userdoc.feature" version="3.3.300.v201901310132" url="features/org.eclipse.jst.server_userdoc.feature_3.3.300.v201901310132/">
+		</feature>
+		<feature id="org.eclipse.wst.ws_userdoc.feature" version="3.1.501.v201909051708" url="features/org.eclipse.wst.ws_userdoc.feature_3.1.501.v201909051708/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.3.1700.v20240229-0520" url="features/org.eclipse.help_2.3.1700.v20240229-0520/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="com.ibm.etools.j2ee.common" version="7.0.551.v20231128_1051" url="features/com.ibm.etools.j2ee.common_7.0.551.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.etools.aries.websphere.ui.feature" version="1.6.2.v20231128_1051" url="features/com.ibm.etools.aries.websphere.ui.feature_1.6.2.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jsf.feature" version="3.13.0.v202308300413" url="features/org.eclipse.jsf.feature_3.13.0.v202308300413/">
+		</feature>
+		<feature id="com.ibm.etools.webservice.discovery.core" version="7.100.0.v20231128_1051" url="features/com.ibm.etools.webservice.discovery.core_7.100.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ut.ic.server.feature" version="1.2.1.v20130508_2218" url="features/com.ibm.ut.ic.server.feature_1.2.1.v20130508_2218/">
+		</feature>
+		<feature id="org.eclipse.wst.common_core.feature" version="3.31.0.v202308161955" url="features/org.eclipse.wst.common_core.feature_3.31.0.v202308161955/">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.sybase.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.sybase.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.sybase">
+		</feature>
+		<feature id="org.eclipse.wst.ws_core.feature" version="3.31.0.v202308021509" url="features/org.eclipse.wst.ws_core.feature_3.31.0.v202308021509/">
+		</feature>
+		<feature id="org.eclipse.jst.ws.cxf.feature" version="1.1.1200.v202311232240" url="features/org.eclipse.jst.ws.cxf.feature_1.1.1200.v202311232240/" plugin-identifier="org.eclipse.jst.ws.cxf.core">
+		</feature>
+		<feature id="org.eclipse.mylyn.context.feature" version="4.2.0.v20240221-0556" url="features/org.eclipse.mylyn.context.feature_4.2.0.v20240221-0556/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.jst.webpageeditor.feature" version="2.12.0.v202307262216" url="features/org.eclipse.jst.webpageeditor.feature_2.12.0.v202307262216/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.ssh.feature" version="11.5.0.202312281935" url="features/org.eclipse.tm.terminal.connector.ssh.feature_11.5.0.202312281935/" plugin-identifier="org.eclipse.tm.terminal.connector.ssh">
+		</feature>
+		<feature id="org.eclipse.jst.ws.jaxws_userdoc.feature" version="1.0.403.v201909051708" url="features/org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.403.v201909051708/">
+		</feature>
+		<feature id="org.eclipse.emf.edit.ui" version="2.25.0.v20230211-1150" url="features/org.eclipse.emf.edit.ui_2.25.0.v20230211-1150/">
+		</feature>
+		<feature id="org.eclipse.jst.ws.axis2tools.feature" version="1.2.0.v202308010354" url="features/org.eclipse.jst.ws.axis2tools.feature_1.2.0.v202308010354/" plugin-identifier="org.eclipse.jst.ws.axis2.ui">
+		</feature>
+		<feature id="com.ibm.j2ee.cshelp.feature" version="6.1.1.v20130130_1011" url="features/com.ibm.j2ee.cshelp.feature_6.1.1.v20130130_1011/">
+		</feature>
+		<feature id="org.eclipse.jpt.jpa.feature" version="3.7.0.v202308172102" url="features/org.eclipse.jpt.jpa.feature_3.7.0.v202308172102/" plugin-identifier="org.eclipse.jpt.jpa.branding">
+		</feature>
+		<feature id="com.ibm.osgi.wdt.v9.feature" version="1.1.0.v20231128_1051" url="features/com.ibm.osgi.wdt.v9.feature_1.1.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.ast.wsfp.common" version="2.100.101.v20231128_1051" url="features/com.ibm.ws.ast.wsfp.common_2.100.101.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.appconversion_feature.jre" version="3.31.0.v20240227_1847" url="features/com.ibm.ws.appconversion_feature.jre_3.31.0.v20240227_1847/" plugin-identifier="com.ibm.ws.appconversion.jre">
+		</feature>
+		<feature id="com.ibm.ws.ast.rad.tools" version="1.1.500.v20231128_1051" url="features/com.ibm.ws.ast.rad.tools_1.1.500.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.emf.codegen.ecore" version="2.37.0.v20240203-1010" url="features/org.eclipse.emf.codegen.ecore_2.37.0.v20240203-1010/">
+		</feature>
+		<feature id="com.ibm.ws.ast.jythontools" version="6.1.200.v20231128_1051" url="features/com.ibm.ws.ast.jythontools_6.1.200.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ccl.preferenceharvester.feature" version="1.3.0.v20130508_2218" url="features/com.ibm.ccl.preferenceharvester.feature_1.3.0.v20130508_2218/">
+		</feature>
+		<feature id="org.eclipse.mylyn.versions.feature" version="4.2.0.v20240208-0919" url="features/org.eclipse.mylyn.versions.feature_4.2.0.v20240208-0919/" plugin-identifier="org.eclipse.mylyn.versions.core">
+		</feature>
+		<feature id="org.eclipse.mylyn.builds.feature" version="4.2.0.v20240212-0246" url="features/org.eclipse.mylyn.builds.feature_4.2.0.v20240212-0246/" plugin-identifier="org.eclipse.mylyn.builds.core">
+		</feature>
+		<feature id="com.ibm.etools.aries.rad.ext.core.feature" version="1.6.0.v20231128_1051" url="features/com.ibm.etools.aries.rad.ext.core.feature_1.6.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.jee.was.descriptors.ui.feature" version="1.0.250.v20231128_1051" url="features/com.ibm.jee.was.descriptors.ui.feature_1.0.250.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.helpwar.doc.feature" version="1.1.100.v20121212_0720" url="features/com.ibm.helpwar.doc.feature_1.1.100.v20121212_0720/">
+		</feature>
+		<feature id="com.ibm.etools.aries.v43.feature" version="1.0.0.v20231128_1051" url="features/com.ibm.etools.aries.v43.feature_1.0.0.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.draw2d" version="3.19.0.202402212051" url="features/org.eclipse.draw2d_3.19.0.202402212051/">
+		</feature>
+		<feature id="com.ibm.ws.ast.rat.v9.runtime" version="1.0.0.v20231128_1051" url="features/com.ibm.ws.ast.rat.v9.runtime_1.0.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.ast.wst.v9" version="2.0.202.v20231128_1051" url="features/com.ibm.ws.ast.wst.v9_2.0.202.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.jee.was.descriptors.feature" version="1.0.200.v20231128_1051" url="features/com.ibm.jee.was.descriptors.feature_1.0.200.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.feature" version="4.2.0.v20240220-1942" url="features/org.eclipse.mylyn.commons.feature_4.2.0.v20240220-1942/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.31.0.v20231210-0956" url="features/org.eclipse.emf.common_2.31.0.v20231210-0956/">
+		</feature>
+		<feature id="com.ibm.etools.webtools.flatui.feature" version="1.0.1.v20210329_1334" url="features/com.ibm.etools.webtools.flatui.feature_1.0.1.v20210329_1334/">
+		</feature>
+		<feature id="org.eclipse.jst.web_ui.feature" version="3.33.0.v202402161256" url="features/org.eclipse.jst.web_ui.feature_3.33.0.v202402161256/">
+		</feature>
+		<feature id="org.eclipse.jpt.common.eclipselink.feature" version="1.3.300.v202307260736" url="features/org.eclipse.jpt.common.eclipselink.feature_1.3.300.v202307260736/" plugin-identifier="org.eclipse.jpt.common.eclipselink.branding">
+		</feature>
+		<feature id="org.eclipse.wildwebdeveloper.feature" version="1.3.3.202311211923" url="features/org.eclipse.wildwebdeveloper.feature_1.3.3.202311211923/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.parsers.feature" version="1.16.0.202311071638" url="features/org.eclipse.datatools.sqldevtools.parsers.feature_1.16.0.202311071638/" plugin-identifier="org.eclipse.datatools.sqltools.parsers.sql">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.7.100.v20240220-1431" url="features/org.eclipse.equinox.p2.core.feature_1.7.100.v20240220-1431/">
+		</feature>
+		<feature id="org.eclipse.jpt.jpa.eclipselink.feature" version="3.4.101.v202308172102" url="features/org.eclipse.jpt.jpa.eclipselink.feature_3.4.101.v202308172102/" plugin-identifier="org.eclipse.jpt.jpa.eclipselink.branding">
+		</feature>
+		<feature id="com.ibm.ws.st.tools.base" version="1.0.560.v20210629_1728" url="features/com.ibm.ws.st.tools.base_1.0.560.v20210629_1728/">
+		</feature>
+		<feature id="com.ibm.etools.annotations.ui.feature.eclipse43" version="1.300.103.v20231128_1051" url="features/com.ibm.etools.annotations.ui.feature.eclipse43_1.300.103.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.common.doc.user" version="1.15.0.202311071249" url="features/org.eclipse.datatools.common.doc.user_1.15.0.202311071249/">
+		</feature>
+		<feature id="org.eclipse.jgit.http.apache" version="6.9.0.202403050737-r" url="features/org.eclipse.jgit.http.apache_6.9.0.202403050737-r/">
+		</feature>
+		<feature id="com.ibm.ws.appconversion.javaee_feature" version="3.31.0.v20240227_1847" url="features/com.ibm.ws.appconversion.javaee_feature_3.31.0.v20240227_1847/" plugin-identifier="com.ibm.ws.appconversion.javaee">
+		</feature>
+		<feature id="com.ibm.ws.st.jee.tools.feature" version="1.0.101.v20231128_1051" url="features/com.ibm.ws.st.jee.tools.feature_1.0.101.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.connectivity.feature" version="1.16.0.202311071345" url="features/org.eclipse.datatools.connectivity.feature_1.16.0.202311071345/" plugin-identifier="org.eclipse.datatools.connectivity">
+		</feature>
+		<feature id="com.ibm.wdt.install.feature" version="1.0.3.v20231128_1051" url="features/com.ibm.wdt.install.feature_1.0.3.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.m2e.pde.feature" version="2.3.1.20240203-0902" url="features/org.eclipse.m2e.pde.feature_2.3.1.20240203-0902/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.ibm.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.ibm.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.ibm">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.codereview.feature" version="9.0.0.202005151438" url="features/com.ibm.rsaz.analysis.codereview.feature_9.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.wst.web_core.feature" version="3.31.0.v202402230237" url="features/org.eclipse.wst.web_core.feature_3.31.0.v202402230237/">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.codereview.java.feature.nls1" version="8.0.0.202005151438" url="features/com.ibm.rsaz.analysis.codereview.java.feature.nls1_8.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.devtools.cshelp.feature" version="1.0.500.v20130514_1745" url="features/com.ibm.devtools.cshelp.feature_1.0.500.v20130514_1745/">
+		</feature>
+		<feature id="org.eclipse.mylyn.jdt.feature" version="4.2.0.v20240220-1733" url="features/org.eclipse.mylyn.jdt.feature_4.2.0.v20240220-1733/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="com.ibm.rad.legal.doc.feature" version="1.0.20.v20130501_1757" url="features/com.ibm.rad.legal.doc.feature_1.0.20.v20130501_1757/">
+		</feature>
+		<feature id="org.eclipse.mylyn.egit.feature" version="4.2.0.v20240202-0700" url="features/org.eclipse.mylyn.egit.feature_4.2.0.v20240202-0700/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.sap.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.sap.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="com.ibm.wdt.restapi.documentation.feature" version="1.0.2.v20231128_1051" url="features/com.ibm.wdt.restapi.documentation.feature_1.0.2.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ast.ws.jaxws.mars.feature" version="1.0.200.v20231128_1051" url="features/com.ibm.ast.ws.jaxws.mars.feature_1.0.200.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.ws.appconversion_feature.common" version="3.37.0.v20240227_1847" url="features/com.ibm.ws.appconversion_feature.common_3.37.0.v20240227_1847/" plugin-identifier="com.ibm.ws.appconversion">
+		</feature>
+		<feature id="com.ibm.web.cshelp.doc.feature" version="7.2.300.v20130130_1011" url="features/com.ibm.web.cshelp.doc.feature_7.2.300.v20130130_1011/">
+		</feature>
+		<feature id="org.eclipse.jdt" version="3.19.400.v20240229-0520" url="features/org.eclipse.jdt_3.19.400.v20240229-0520/">
+		</feature>
+		<feature id="com.ibm.etools.aries.websphere.v9.ui.feature" version="1.0.0.v20231128_1051" url="features/com.ibm.etools.aries.websphere.v9.ui.feature_1.0.0.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.identity.feature" version="4.2.0.v20240203-1124" url="features/org.eclipse.mylyn.commons.identity.feature_4.2.0.v20240203-1124/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="com.ibm.jee.jpa.common.feature.eclipse46" version="2.0.1.v20231128_1051" url="features/com.ibm.jee.jpa.common.feature.eclipse46_2.0.1.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.j2ee.feature.nls1" version="7.3.100.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.j2ee.feature.nls1_7.3.100.202005151438/">
+		</feature>
+		<feature id="com.ibm.rsar.analysis.reporting.feature.nls1" version="9.0.0.202005151438" url="features/com.ibm.rsar.analysis.reporting.feature.nls1_9.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.security.feature.nls1" version="8.0.0.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.security.feature.nls1_8.0.0.202005151438/">
+		</feature>
+		<feature id="com.ibm.wdt.javaee.feature" version="1.0.401.v20231128_1051" url="features/com.ibm.wdt.javaee.feature_1.0.401.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.mylyn.jenkins.feature" version="4.2.0.v20240212-0246" url="features/org.eclipse.mylyn.jenkins.feature_4.2.0.v20240212-0246/" plugin-identifier="org.eclipse.mylyn.builds.core">
+		</feature>
+		<feature id="com.ibm.osgi.wdt.feature" version="2023.0.200.v20231128_1051" url="features/com.ibm.osgi.wdt.feature_2023.0.200.v20231128_1051/" plugin-identifier="com.ibm.etools.aries.core">
+		</feature>
+		<feature id="org.eclipse.emf.common.ui" version="2.21.0.v20231002-1020" url="features/org.eclipse.emf.common.ui_2.21.0.v20231002-1020/">
+		</feature>
+		<feature id="com.ibm.rad.nav.doc.feature" version="7.3.40.v20130526_2251" url="features/com.ibm.rad.nav.doc.feature_7.3.40.v20130526_2251/">
+		</feature>
+		<feature id="com.ibm.etools.webservice.finder.ui.feature" version="1.0.250.v20231128_1051" url="features/com.ibm.etools.webservice.finder.ui.feature_1.0.250.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.userstorage" version="1.2.0.v20210517-0327" url="features/org.eclipse.userstorage_1.2.0.v20210517-0327/">
+		</feature>
+		<feature id="org.eclipse.emf" version="2.37.0.v20240203-1010" url="features/org.eclipse.emf_2.37.0.v20240203-1010/">
+		</feature>
+		<feature id="org.eclipse.mylyn.ide.feature" version="4.2.0.v20240220-1733" url="features/org.eclipse.mylyn.ide.feature_4.2.0.v20240220-1733/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.data.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.sqldevtools.data.feature_1.15.0.202311071249/">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.commandline.core.feature" version="7.1.0.202005151438" url="features/com.ibm.rsaz.analysis.commandline.core.feature_7.1.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.jpt.jaxb.feature" version="1.5.201.v202301061019" url="features/org.eclipse.jpt.jaxb.feature_1.5.201.v202301061019/" plugin-identifier="org.eclipse.jpt.jaxb.branding">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.6.2.v20231021-2127" url="features/org.eclipse.ecf.core.feature_1.6.2.v20231021-2127/">
+		</feature>
+		<feature id="com.ibm.etools.aries.websphere.core.feature" version="1.7.0.v20231128_1051" url="features/com.ibm.etools.aries.websphere.core.feature_1.7.0.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jgit.gpg.bc" version="6.9.0.202403050737-r" url="features/org.eclipse.jgit.gpg.bc_6.9.0.202403050737-r/">
+		</feature>
+		<feature id="com.ibm.help.common.feature" version="7.6.0.v20130521_2201" url="features/com.ibm.help.common.feature_7.6.0.v20130521_2201/">
+		</feature>
+		<feature id="org.eclipse.wst.web_js_support.feature" version="3.33.0.v202403030558" url="features/org.eclipse.wst.web_js_support.feature_3.33.0.v202403030558/">
+		</feature>
+		<feature id="com.ibm.etools.aries.maven.core.feature" version="1.5.250.v20231128_1051" url="features/com.ibm.etools.aries.maven.core.feature_1.5.250.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="com.ibm.ws.st.was.tools.common.core" version="1.0.5.v2023-11-27_1918" url="features/com.ibm.ws.st.was.tools.common.core_1.0.5.v2023-11-27_1918/">
+		</feature>
+		<feature id="org.eclipse.datatools.connectivity.oda.designer.core.feature" version="1.16.0.202311071345" url="features/org.eclipse.datatools.connectivity.oda.designer.core.feature_1.16.0.202311071345/" plugin-identifier="org.eclipse.datatools.connectivity.oda.design.ui">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.jdt.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.jdt.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.jdt.classpath">
+		</feature>
+		<feature id="com.ibm.ws.ast.batch.common" version="2.3.103.v20231128_1051" url="features/com.ibm.ws.ast.batch.common_2.3.103.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.control.feature" version="11.5.0.202312281935" url="features/org.eclipse.tm.terminal.control.feature_11.5.0.202312281935/" plugin-identifier="org.eclipse.tm.terminal.control">
+		</feature>
+		<feature id="com.ibm.ws.st.liberty.tools.base" version="1.0.9.v2021-06-29_1604" url="features/com.ibm.ws.st.liberty.tools.base_1.0.9.v2021-06-29_1604/" plugin-identifier="com.ibm.ws.st.core">
+		</feature>
+		<feature id="org.eclipse.wildwebdeveloper.xml.feature" version="1.3.1.202310310352" url="features/org.eclipse.wildwebdeveloper.xml.feature_1.3.1.202310310352/">
+		</feature>
+		<feature id="org.eclipse.tips.feature" version="0.4.300.v20240207-1044" url="features/org.eclipse.tips.feature_0.4.300.v20240207-1044/">
+		</feature>
+		<feature id="org.eclipse.wst.jsdt.feature" version="2.4.500.v202307190318" url="features/org.eclipse.wst.jsdt.feature_2.4.500.v202307190318/" plugin-identifier="org.eclipse.wst.jsdt.ui">
+		</feature>
+		<feature id="com.ibm.ws.ast.base.webservices" version="2.0.0.v20231128_1051" url="features/com.ibm.ws.ast.base.webservices_2.0.0.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.rrd.liberty.rules.feature" version="1.25.0.v20240227_1847" url="features/com.ibm.rrd.liberty.rules.feature_1.25.0.v20240227_1847/">
+		</feature>
+		<feature id="org.eclipse.jst.ws.jaxws.dom.feature" version="1.0.600.v202308010354" url="features/org.eclipse.jst.ws.jaxws.dom.feature_1.0.600.v202308010354/">
+		</feature>
+		<feature id="org.eclipse.oomph.setup" version="1.31.0.v20240306-1109" url="features/org.eclipse.oomph.setup_1.31.0.v20240306-1109/">
+		</feature>
+		<feature id="org.eclipse.wst.ws_ui.feature" version="3.31.0.v202308010326" url="features/org.eclipse.wst.ws_ui.feature_3.31.0.v202308010326/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_ui.feature" version="3.33.0.v202402030243" url="features/org.eclipse.wst.xml_ui.feature_3.33.0.v202402030243/" plugin-identifier="org.eclipse.wst.xml.ui">
+		</feature>
+		<feature id="com.ibm.ccl.ws.jaxws.gstc.core" version="1.0.400.v20231128_1051" url="features/com.ibm.ccl.ws.jaxws.gstc.core_1.0.400.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jgit" version="6.9.0.202403050737-r" url="features/org.eclipse.jgit_6.9.0.202403050737-r/">
+		</feature>
+		<feature id="org.eclipse.wst.server_ui.feature" version="3.3.1800.v202308172116" url="features/org.eclipse.wst.server_ui.feature_3.3.1800.v202308172116/">
+		</feature>
+		<feature id="org.eclipse.emf.converter" version="2.20.0.v20240203-0859" url="features/org.eclipse.emf.converter_2.20.0.v20240203-0859/">
+		</feature>
+		<feature id="org.eclipse.wst.xml.xpath2.processor.feature" version="2.1.0.v202307260822" url="features/org.eclipse.wst.xml.xpath2.processor.feature_2.1.0.v202307260822/" plugin-identifier="org.eclipse.wst.xml.xpath2">
+		</feature>
+		<feature id="com.ibm.ws.ast.wsfp.rad.tools.common" version="2.100.100.v20231128_1051" url="features/com.ibm.ws.ast.wsfp.rad.tools.common_2.100.100.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jst.enterprise_userdoc.feature" version="3.23.0.v202309190220" url="features/org.eclipse.jst.enterprise_userdoc.feature_3.23.0.v202309190220/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.local.feature" version="11.5.0.202402230238" url="features/org.eclipse.tm.terminal.connector.local.feature_11.5.0.202402230238/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.2300.v20240229-1022" url="features/org.eclipse.equinox.p2.extras.feature_1.4.2300.v20240229-1022/">
+		</feature>
+		<feature id="org.eclipse.datatools.connectivity.oda.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.connectivity.oda.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.connectivity.oda">
+		</feature>
+		<feature id="org.eclipse.mylyn.git.feature" version="4.2.0.v20240208-0919" url="features/org.eclipse.mylyn.git.feature_4.2.0.v20240208-0919/" plugin-identifier="org.eclipse.mylyn.versions.core">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.activity.feature" version="4.2.0.v20240203-1124" url="features/org.eclipse.mylyn.commons.activity.feature_4.2.0.v20240203-1124/" plugin-identifier="org.eclipse.mylyn.tasks.activity.ui">
+		</feature>
+		<feature id="org.eclipse.mylyn.github.feature" version="6.4.0.v20240209-1319" url="features/org.eclipse.mylyn.github.feature_6.4.0.v20240209-1319/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.jst.web_core.feature" version="3.33.0.v202402030251" url="features/org.eclipse.jst.web_core.feature_3.33.0.v202402030251/">
+		</feature>
+		<feature id="org.eclipse.justj.epp" version="17.0.0.v20240120-1430" url="features/org.eclipse.justj.epp_17.0.0.v20240120-1430/">
+		</feature>
+		<feature id="com.ibm.jee.bean.validation.feature" version="1.0.4.v20231128_1051" url="features/com.ibm.jee.bean.validation.feature_1.0.4.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jpt.jaxb.eclipselink.feature" version="1.4.203.v202104080213" url="features/org.eclipse.jpt.jaxb.eclipselink.feature_1.4.203.v202104080213/" plugin-identifier="org.eclipse.jpt.jaxb.eclipselink.branding">
+		</feature>
+		<feature id="com.ibm.etools.project.explorer.feature" version="1.0.201.v20231128_1051" url="features/com.ibm.etools.project.explorer.feature_1.0.201.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.wst.web_ui.feature" version="3.31.0.v202403030558" url="features/org.eclipse.wst.web_ui.feature_3.31.0.v202403030558/" plugin-identifier="org.eclipse.wst.web.ui">
+		</feature>
+		<feature id="com.ibm.ws.appconversion_feature.was2was" version="3.38.0.v20240227_1847" url="features/com.ibm.ws.appconversion_feature.was2was_3.38.0.v20240227_1847/" plugin-identifier="com.ibm.ws.appconversion.was2was">
+		</feature>
+		<feature id="com.ibm.ws.appconversion.was2liberty_feature" version="3.35.0.v20240227_1847" url="features/com.ibm.ws.appconversion.was2liberty_feature_3.35.0.v20240227_1847/" plugin-identifier="com.ibm.ws.appconversion.was2liberty">
+		</feature>
+		<feature id="org.eclipse.epp.package.jee.feature" version="4.31.0.20240307-1200" url="features/org.eclipse.epp.package.jee.feature_4.31.0.20240307-1200/" plugin-identifier="org.eclipse.epp.package.jee">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.4.2300.v20240229-1022" url="features/org.eclipse.equinox.p2.user.ui_2.4.2300.v20240229-1022/">
+		</feature>
+		<feature id="com.ibm.ws.bla.management.core.feature" version="1.1.600.v20231128_1051" url="features/com.ibm.ws.bla.management.core.feature_1.1.600.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.etools.javaee.editors.feature.eclipse43" version="1.1.702.v20231128_1051" url="features/com.ibm.etools.javaee.editors.feature.eclipse43_1.1.702.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.feature" version="11.5.0.202312062348" url="features/org.eclipse.tm.terminal.feature_11.5.0.202312062348/" plugin-identifier="org.eclipse.tm.terminal.view.core">
+		</feature>
+		<feature id="com.ibm.xtools.analysis.codereview.java.j2ee.feature" version="7.4.100.202005151438" url="features/com.ibm.xtools.analysis.codereview.java.j2ee.feature_7.4.100.202005151438/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.telnet.feature" version="11.5.0.202312281935" url="features/org.eclipse.tm.terminal.connector.telnet.feature_11.5.0.202312281935/">
+		</feature>
+		<feature id="org.eclipse.emf.databinding.edit" version="1.11.0.v20231208-1346" url="features/org.eclipse.emf.databinding.edit_1.11.0.v20231208-1346/">
+		</feature>
+		<feature id="com.ibm.websphere.wdt.product.site.fe" version="2.0.30.v20231128_1051" url="features/com.ibm.websphere.wdt.product.site.fe_2.0.30.v20231128_1051/">
+		</feature>
+		<feature id="com.ibm.etools.aries.core.feature" version="1.7.602.v20231128_1051" url="features/com.ibm.etools.aries.core.feature_1.7.602.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.m2e.logback.feature" version="2.6.0.20240217-1525" url="features/org.eclipse.m2e.logback.feature_2.6.0.20240217-1525/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="org.eclipse.wst.common.fproj" version="3.7.4.v202308161955" url="features/org.eclipse.wst.common.fproj_3.7.4.v202308161955/" plugin-identifier="org.eclipse.wst.common.project.facet.core">
+		</feature>
+		<feature id="org.eclipse.buildship" version="3.1.9.v20240115-1636" url="features/org.eclipse.buildship_3.1.9.v20240115-1636/" plugin-identifier="org.eclipse.buildship.branding">
+		</feature>
+		<feature id="com.ibm.ws.st.tools.common.core" version="1.0.15.v20231128_1051" url="features/com.ibm.ws.st.tools.common.core_1.0.15.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jst.server_core.feature" version="3.4.600.v202401292345" url="features/org.eclipse.jst.server_core.feature_3.4.600.v202401292345/">
+		</feature>
+		<feature id="com.ibm.etools.maven.javaee.feature" version="1.2.0.v20231128_1051" url="features/com.ibm.etools.maven.javaee.feature_1.2.0.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_core.feature" version="3.33.0.v202402230237" url="features/org.eclipse.wst.xml_core.feature_3.33.0.v202402230237/">
+		</feature>
+		<feature id="org.eclipse.mylyn.wikitext.feature" version="4.2.0.v20240302-0923" url="features/org.eclipse.mylyn.wikitext.feature_4.2.0.v20240302-0923/" plugin-identifier="org.eclipse.mylyn.wikitext">
+		</feature>
+		<feature id="com.ibm.ws.base.webservices" version="2.0.101.v20231128_1051" url="features/com.ibm.ws.base.webservices_2.0.101.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.mysql.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.mysql.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.finfo">
+		</feature>
+		<feature id="com.ibm.ccl.ws.jaxws.gstc.ui" version="2.0.0.v20231128_1051" url="features/com.ibm.ccl.ws.jaxws.gstc.ui_2.0.0.v20231128_1051/">
+		</feature>
+		<feature id="org.eclipse.jst.enterprise_core.feature" version="3.33.0.v202401080452" url="features/org.eclipse.jst.enterprise_core.feature_3.33.0.v202401080452/">
+		</feature>
+		<feature id="org.eclipse.m2e.wtp.jaxrs.feature" version="1.6.1.20231024-1618" url="features/org.eclipse.m2e.wtp.jaxrs.feature_1.6.1.20231024-1618/" plugin-identifier="org.eclipse.m2e.wtp.jaxrs">
+		</feature>
+		<feature id="com.ibm.rsaz.analysis.feature.nls1" version="9.0.0.202005151438" url="features/com.ibm.rsaz.analysis.feature.nls1_9.0.0.202005151438/">
+		</feature>
+		<feature id="org.eclipse.egit" version="6.9.0.202403050737-r" url="features/org.eclipse.egit_6.9.0.202403050737-r/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.ddlgen.feature" version="1.16.0.202403060703" url="features/org.eclipse.datatools.sqldevtools.ddlgen.feature_1.16.0.202403060703/" plugin-identifier="org.eclipse.datatools.sqltools.ddlgen.ui">
+		</feature>
+		<feature id="org.eclipse.jst.web_js_support.feature" version="3.32.0.v202309190220" url="features/org.eclipse.jst.web_js_support.feature_3.32.0.v202309190220/">
+		</feature>
+		<feature id="org.eclipse.epp.package.common.feature" version="4.31.0.20240307-1200" url="features/org.eclipse.epp.package.common.feature_4.31.0.20240307-1200/">
+		</feature>
+		<feature id="org.eclipse.m2e.feature" version="2.6.0.20240220-1109" url="features/org.eclipse.m2e.feature_2.6.0.20240220-1109/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="org.eclipse.datatools.enablement.oda.feature" version="1.15.0.202311071249" url="features/org.eclipse.datatools.enablement.oda.feature_1.15.0.202311071249/" plugin-identifier="org.eclipse.datatools.enablement.oda.xml">
+		</feature>
+	</site>
+</config>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.xtools.analysis.codereview.java.globalization.feature"
+      label="%name"
+      version="8.0.0.202005151438"
+      provider-name="%provider">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.jdt.core" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.text" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.jface" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.swt" version="3.2.0" match="compatible"/>
+      <import plugin="com.ibm.rsaz.analysis.core" version="9.0.0" match="compatible"/>
+      <import plugin="com.ibm.rsaz.analysis.codereview.java" version="8.0.0" match="compatible"/>
+      <import plugin="com.ibm.icu"/>
+      <import plugin="com.ibm.rsaz.analysis.codereview.java.rules.base" version="8.0.0" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="com.ibm.xtools.analysis.codereview.java.globalization"
+         download-size="114"
+         install-size="601"
+         version="8.0.0.202005151438"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.xtools.analysis.codereview.java.globalization.ui.quickfix"
+         download-size="110"
+         install-size="206"
+         version="1.0.0.202005151438"
+         unpack="false"/>
+
+</feature>

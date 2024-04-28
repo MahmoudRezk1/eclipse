@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Ant-Version: Apache Ant 1.8.4
+Bundle-Version: 1.0.4.v20231128_1051
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Created-By: 17.0.4.1+1 (Eclipse OpenJ9)
+Bundle-SymbolicName: com.ibm.websphere.wdt.stubs;singleton:=true
+
+Name: runtimes/base_stub/properties/java.security
+SHA-256-Digest: qt/znHdSau8IQCkO69SA1v4lDgDAticeIlJrHHK9OVk=
+
+Name: runtimes/base_stub/etc/key.p12
+SHA-256-Digest: 5pVSw730qqbxRtqMqyHI2iUg8iz0L26PRpZ82TE+Qts=
+
+Name: runtimes/base_stub/properties/ssl.client.props
+SHA-256-Digest: +FPEArzc108DxPzEIV9zH/zJyenDuv3aneK7tW3qFRs=
+
+Name: runtimes/base_stub/properties/soap.client.props
+SHA-256-Digest: F+pZwKQybafPWhzW9vQjz02Wf53NiLTympHWq+3ixBw=
+
+Name: plugin.properties
+SHA-256-Digest: tiZJPCBV9gIAiSE1L1HWln2eldWAhQkjFc/iaqt8RA4=
+
+Name: runtimes/base_stub/etc/trust.p12
+SHA-256-Digest: YsUx5D0K4UJvFVLbiqCKVrN7hDLbXI6dMhZV4h76hfc=
+
+Name: runtimes/base_stub/properties/sas.client.props
+SHA-256-Digest: YOFmkBHcWks/FGaZ+QSxdcO46BZzZ/ceVHKs1pJjqko=
+

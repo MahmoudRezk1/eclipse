@@ -1,0 +1,42 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: kcxPyMrF+0qElQ2aWJmPq7ipCBGxF
+ 0QmdlbwWmcM0zg=
+SHA-256-Digest-Manifest: +kgYVxCtOTu4FBcUFQajIaA4YwYTaFXZnyRYDqynLrw=
+Created-By: 1.8.0_231 (IBM Corporation)
+
+Name: feature_it.properties
+SHA-256-Digest: RiXOO+M1D3BXVgdjs8/idiNKXqnNOElS3kzefbriJzM=
+
+Name: feature_ja.properties
+SHA-256-Digest: Nj4v69nZznAia7Be/lmt2WtqJGF6Ph66nM7NwFz340g=
+
+Name: feature_de.properties
+SHA-256-Digest: 15osMFYMYDevlCSorg+r+HjrDByYsV/YBSWPDgdR5Xc=
+
+Name: feature_es.properties
+SHA-256-Digest: co5tFTzzeioUEaT3i6Cd+UCKBtLLgq9cU0KSSkjL/Uw=
+
+Name: feature_zh.properties
+SHA-256-Digest: RBM7L/fK66WzRYA62sef7AbUFU0BmRrhVk7dWYNLJRQ=
+
+Name: feature_zh_TW.properties
+SHA-256-Digest: rzBmOb5sU79mL93C4DeCP9jCIZvJOpB4JyXCKouNt+k=
+
+Name: feature_pt_BR.properties
+SHA-256-Digest: WlitS45idcM83a1IRtdeVUpcF3184BNjHuxGNt8vW8k=
+
+Name: feature.xml
+SHA-256-Digest: oM4R2rOCzrgp6ZvDrX8/V9sDTPi9pDHP3Zyd83yQ7Z4=
+
+Name: feature_fr.properties
+SHA-256-Digest: XZFPQEt/46kGi4cODIN1vxZTJAIVDitEeT2Bo4djxDE=
+
+Name: feature.properties
+SHA-256-Digest: 0ZcfQLL3Qjp9M7IHu5yedpHBqQGXH5JTc0WFeeK/7o0=
+
+Name: feature_ko.properties
+SHA-256-Digest: ImbwwVvurEXgKHkdwvv2o5yp2zzy+ruJssXfFI6EdXg=
+
+Name: feature_zh_HK.properties
+SHA-256-Digest: zbGRblJfmRrh0LLPzVvhUC/O7FqKPpVQELcYT9NfcBM=
+

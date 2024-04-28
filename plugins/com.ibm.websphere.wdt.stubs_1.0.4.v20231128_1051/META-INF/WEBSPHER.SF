@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: EpS5xoDGRZ4H66LwLZKo37rJxmxbN
+ 6s+ZLFqkhNOslA=
+SHA-256-Digest-Manifest: 9pXnYsRIj1nJ3swKnWAVHgRBjhqJS73sQ23kK7+Wy4M=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: runtimes/base_stub/properties/java.security
+SHA-256-Digest: 8tSzhEdXelSot45GRwyxkjuozBTgEFr40GHLvDS3IuI=
+
+Name: runtimes/base_stub/etc/key.p12
+SHA-256-Digest: Zwm/QfoVWRlkP2FzRZA0ouMiWu1gR+gnZbY43SosNIw=
+
+Name: runtimes/base_stub/properties/ssl.client.props
+SHA-256-Digest: e23zeVZGIjh/pU1LJFZ8+FIgUjw03keGiae71TOqm3g=
+
+Name: plugin.properties
+SHA-256-Digest: JqEAnmi62bmzVpiREWaAHRIHq4+80UvvMpPVin7eJy0=
+
+Name: runtimes/base_stub/properties/soap.client.props
+SHA-256-Digest: rPLtJieoGmbObRJOAyc3Y0l6YO2crf54qba8mqhkJho=
+
+Name: runtimes/base_stub/etc/trust.p12
+SHA-256-Digest: qw7J+thhBpiUzTbl1sz2c7KXTf7XvFxNPNa34L/8llo=
+
+Name: runtimes/base_stub/properties/sas.client.props
+SHA-256-Digest: EGl8wimQUkSlKhzyXqJVttU383JgrTb1ycMJXwih2S8=
+

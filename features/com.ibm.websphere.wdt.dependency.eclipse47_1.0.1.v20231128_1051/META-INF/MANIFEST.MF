@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 17.0.4.1+1 (Eclipse OpenJ9)
+
+Name: license.html
+SHA-256-Digest: 0sKvMZ1d5feA7yj40+dgvX/pQ6fB2PTAjY/fcG6I4x0=
+
+Name: feature.xml
+SHA-256-Digest: pH/hLWY2ADGmzrTtT1w4DBsXzRjhz2mNoM2O0uYmFVc=
+
+Name: feature.properties
+SHA-256-Digest: UmOqphsX+iHSuzeOvzmVCLxaFswA9JXuep2eiFFV8Uw=
+

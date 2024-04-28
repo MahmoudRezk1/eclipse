@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.rsar.analysis.xml.feature"
+      label="XML_analysis_feature"
+      version="6.0.0.202005151438"
+      provider-name="IBM">
+
+   <description>
+      This feature contains the code for XML analysis.
+   </description>
+
+   <plugin
+         id="com.ibm.rsar.analysis.xml.core"
+         download-size="58"
+         install-size="110"
+         version="9.0.0.202005151438"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsar.analysis.xml.core.ui"
+         download-size="24"
+         install-size="38"
+         version="8.0.0.202005151438"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsar.analysis.xml.rules"
+         download-size="11"
+         install-size="21"
+         version="1.1.0.202005151438"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.rsaz.analysis.commandline.core.feature"
+      label="Core_feature Feature"
+      version="7.1.0.202005151438"
+      provider-name="IBM">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.commandline.core"
+         download-size="5"
+         install-size="6"
+         version="7.1.0.202005151438"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 17.0.4.1+1 (Eclipse OpenJ9)
+
+Name: license_tr.html
+SHA-256-Digest: DHvbcRgjyhGTtOY0C6KrMOByPUXCGcyYPEnuG6yYV8I=
+
+Name: license_zh.html
+SHA-256-Digest: oBFqJrduSo/72l40QigEZoCxBxsQiJinOGZ6Lp6lZ38=
+
+Name: license_zh_TW.html
+SHA-256-Digest: SYzY82mexxsEERmc0/LsqEV7GqS8yZNAjQY4BLAxZzQ=
+
+Name: license_ko.html
+SHA-256-Digest: KB/Evcc6u6MtQ06HV+h9eOuJl2otuHUp8OePYxse80s=
+
+Name: license_el.html
+SHA-256-Digest: GvAwPCnQIng8HcJXSzV3kkTSth3KGgYL8S5PzIS+yuI=
+
+Name: feature.xml
+SHA-256-Digest: 6WSBEfNBcXl9K1MPZ2B5legt/rIpjIbgo3VL7aHQJBs=
+
+Name: license_pt.html
+SHA-256-Digest: 8xLS7/E2uD5RrOjO+R93xR/k+rdD9nVmUi75CINjQtc=
+
+Name: license_fr.html
+SHA-256-Digest: pEIhY7Mc8CdePBQ4rIC3EuRQwiNSS84H9VJ17tKvgkk=
+
+Name: license_in.html
+SHA-256-Digest: EUMN3Kk7PQFrRvsR26iZas/F6xjv6baSUVeGQEibGdM=
+
+Name: license_sl.html
+SHA-256-Digest: 3cLCWGs64ZNg5v0t1bVVFxjxb9X3HvbcWKhw3ORhr6U=
+
+Name: license_de.html
+SHA-256-Digest: GBtWw/Ng7Xz3kSFXplIGFamIptlAnq2DxJx6qmt7nz8=
+
+Name: license_es.html
+SHA-256-Digest: raKzJTOouqJPUZq0udhyr1kfy8a7DI2P6UWBiuHEXRI=
+
+Name: license_pl.html
+SHA-256-Digest: EBsvjhuErrhlWjWEBH8UfDQ85b9TsPC35IJhUMR4Zi0=
+
+Name: license.html
+SHA-256-Digest: nKTTUfRNF7lc17BruULJoRbzsaD7F+pSoSJe4S5oNEQ=
+
+Name: license_it.html
+SHA-256-Digest: Tc40Am5MW6MM+kaFspCsEpcphqx8vLahI8hFTW07Dns=
+
+Name: license_cs.html
+SHA-256-Digest: fqJ1/FEU1NSWz+7iP04But4ZYyKPWNGKiy3xX+EIW1I=
+
+Name: license_ja.html
+SHA-256-Digest: jLOVT4ENUS9Fq3y7aprRsB0n9qc9Lm8Cruy8fSm+blI=
+
+Name: license_ru.html
+SHA-256-Digest: z0Sj67+1wQue4tqvlPyhVRca2fpWOR4a2e8QSFEmJOs=
+
+Name: feature.properties
+SHA-256-Digest: GPttl843/g/t8cwiDgiR47XNitqkeWBdjjHPb4zKrr0=
+
+Name: license_lt.html
+SHA-256-Digest: ge0l6zelAV2eqbxo/f4sXW43yWeK9Xu/DCifNG5Htg4=
+

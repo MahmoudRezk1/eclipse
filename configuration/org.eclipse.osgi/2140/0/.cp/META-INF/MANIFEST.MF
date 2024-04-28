@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui;bundle-version="[3.2.0,4.0.0)",com.ibm.
+ ccl.help.preferenceharvester;bundle-version="1.0.0"
+Bundle-Vendor: %providerName
+Ant-Version: Apache Ant 1.8.4
+Bundle-Version: 2.0.8.v20231128_1051
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Created-By: 17.0.4.1+1 (Eclipse OpenJ9)
+Bundle-SymbolicName: com.ibm.websphere.wdt.product.site;singleton:=tru
+ e
+
+Name: intro/overview.xml
+SHA-256-Digest: jaLukIEV6UYLOWnGEpW9ggfu5qXHn90V2S3X5atEwpY=
+
+Name: intro/whatsnew.xml
+SHA-256-Digest: gqu0X7dbh/haM3hTwfXYBF9I9xm99r9qQJERSffxBWQ=
+
+Name: plugin.xml
+SHA-256-Digest: fk5f82ngHLIHmxY1n/BDe1oVUXiGAibEGxWxSdq0g7A=
+
+Name: intro/css/whatsnew.css
+SHA-256-Digest: Dlf27pzu32mPfEE5f4GbVmYhKfuxotCfxy7iZmf9jHk=
+
+Name: icons/wdt-was-lp-32.png
+SHA-256-Digest: 6mhDg92dpLQzNut71FBRtM3PFMk+N3SCfEWTnD9IN1Q=
+
+Name: plugin.properties
+SHA-256-Digest: 9RgItfV0yyu3+9GeuhZiX5rYULt7rjvYOec8f5emm8k=
+
+Name: intro/css/overview.css
+SHA-256-Digest: 7iBO8m+dMx0wfDf2uAK/ULhBBeA2nNPB/GLJdutrZpY=
+
+Name: icons/Bluemix-white-50-37.png
+SHA-256-Digest: paQcheELshf5fXRdn0zQch2xNRS6mSOZnpRuVV3Yn24=
+

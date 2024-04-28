@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<introContent>
+	<extensionContent id="com.ibm.websphere.wdt"
+		name="IBM WebSphere Application Server Developer Tools for Eclipse"
+		style="css/whatsnew.css" path="whatsnew/@">
+		<group id="content-group" style-id="content-group">
+			<link id="wdt-noteworthy" style-id="content-link"
+				label="IBM WebSphere Application Server Developer Tools for Eclipse"
+				url="https://www.ibm.com/support/knowledgecenter/SSHR6W/com.ibm.websphere.wdt.doc/topics/wdt_overview.htm">
+				<text>
+					See what's available in the latest release of
+					IBM WebSphere Application Server Developer Tools for Eclipse.
+				</text>
+			</link>
+		</group>
+	</extensionContent>
+</introContent>

@@ -1,0 +1,15 @@
+<feature id="com.ibm.ws.base.webservices" image="rtFeatUpdate.gif" label="%featureName" provider-name="%providerName" version="2.0.101.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ws.jaxrs.core" install-size="0" version="1.0.900.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ws.jaxrs.ui" install-size="0" unpack="false" version="2.0.1.v20231128_1051"/>
+
+</feature>

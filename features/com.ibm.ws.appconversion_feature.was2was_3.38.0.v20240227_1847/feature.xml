@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* ***************************************************************** */
+/* Licensed Materials - Property of IBM                              */
+/* (C) Copyright IBM Corp. 2016, 2024. All Rights Reserved.          */
+/*                                                                   */
+/* US Government Users Restricted Rights - Use, duplication or       */
+/* disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
+/* ***************************************************************** */
+-->
+<feature id="com.ibm.ws.appconversion_feature.was2was" label="%featureName" license-feature="com.ibm.ws.migrationtoolkit.license.feature" plugin="com.ibm.ws.appconversion.was2was" provider-name="%providerName" license-feature-version="24.0.0.1" version="3.38.0.v20240227_1847">
+<license url="%licenseURL" >
+      %license
+  </license>
+    <description>
+      %description
+   </description>
+    <copyright>
+      %copyright
+   </copyright>
+    <includes id="com.ibm.ws.appconversion_feature.common" search-location="both" version="3.37.0.v20240227_1847"/>
+    <includes id="com.ibm.ws.appconversion_feature.jre" search-location="both" version="3.31.0.v20240227_1847"/>
+    <includes id="com.ibm.rrd.liberty.rules.feature" search-location="both" version="1.25.0.v20240227_1847"/>
+    <includes id="com.ibm.ws.appconversion.was2liberty_feature" search-location="both" version="3.35.0.v20240227_1847"/>
+    <includes id="com.ibm.ws.appconversion.javaee_feature" search-location="both" version="3.31.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.was2was" install-size="0" unpack="false" version="3.34.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.was2was.nl1" install-size="0" unpack="false" version="3.34.0.v20240227_1847"/>
+</feature>

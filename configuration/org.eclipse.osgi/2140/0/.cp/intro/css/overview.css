@@ -1,0 +1,25 @@
+
+a#wdt-overview img {
+	background-image: url(../../icons/wdt-was-lp-32.png);
+}
+
+a#wdt-overview:hover img {
+	background-image: url(../../icons/wdt-was-lp-32.png);
+}
+
+a#wdt-installer img {
+	background-image: url(../../icons/wdt-was-lp-32.png);
+}
+
+a#wdt-installer:hover img {
+	background-image: url(../../icons/wdt-was-lp-32.png);
+}
+
+a#bluemix-overview img {
+	background-image: url(../../icons/Bluemix-white-50-37.png);
+}
+
+a#bluemix-overview:hover img {
+	background-image: url(../../icons/Bluemix-white-50-37.png);
+}
+

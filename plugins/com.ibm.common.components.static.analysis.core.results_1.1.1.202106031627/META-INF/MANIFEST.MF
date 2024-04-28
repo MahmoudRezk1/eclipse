@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Export-Package: com.ibm.common.components.staticanalysis.core.exceptio
+ ns,com.ibm.common.components.staticanalysis.core.results,com.ibm.comm
+ on.components.staticanalysis.core.results.exporters,com.ibm.common.co
+ mponents.staticanalysis.core.results.importers,com.ibm.common.compone
+ nts.staticanalysis.core.results.messages,com.ibm.common.components.st
+ aticanalysis.core.results.rules,com.ibm.common.components.staticanaly
+ sis.core.rules,com.ibm.common.components.staticanalysis.internal.core
+ .results,com.ibm.common.components.staticanalysis.internal.core.resul
+ ts.exporters,com.ibm.common.components.staticanalysis.internal.core.r
+ esults.importers,com.ibm.common.components.staticanalysis.internal.co
+ re.results.rules,com.ibm.common.components.staticanalysis.internal.co
+ re.results.utilities,com.ibm.common.components.staticanalysis.interna
+ l.core.rules
+Bundle-ClassPath: saapi.jar
+Built-By: jenkins
+Bundle-Name: Static Analysis Results
+Created-By: Apache Maven 3.6.3
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: IBM
+Automatic-Module-Name: com.ibm.common.components.static.analysis.core.
+ results
+Build-Jdk: 1.8.0
+Bundle-Version: 1.1.1.202106031627
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.ibm.common.components.static.analysis.core.re
+ sults
+Archiver-Version: Plexus Archiver
+
+Name: META-INF/maven/com.ibm.common-components.saapi/com.ibm.common.co
+ mponents.static.analysis.core.results/pom.xml
+SHA-256-Digest: kjXhnyG+PDsESvOm1+WJJjrQRVcd6ADhMF02saTRCd8=
+
+Name: META-INF/maven/com.ibm.common-components.saapi/com.ibm.common.co
+ mponents.static.analysis.core.results/pom.properties
+SHA-256-Digest: q8an0p8GmxBVhps9iQMtaW341vsPyZItEFGtoMBOBgk=
+
+Name: saapi.jar
+SHA-256-Digest: QEcL0nmWEruL7x7xL2dhlLF1bANCInev3TMk0qW30cw=
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* ***************************************************************** */
+/* Licensed Materials - Property of IBM                              */
+/* (C) Copyright IBM Corp. 2016, 2024. All Rights Reserved.          */
+/*                                                                   */
+/* US Government Users Restricted Rights - Use, duplication or       */
+/* disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
+/* ***************************************************************** */
+-->
+<feature id="com.ibm.rrd.liberty.rules.feature" label="%featureName" license-feature="com.ibm.ws.migrationtoolkit.license.feature" provider-name="%providerName" license-feature-version="24.0.0.1" version="1.25.0.v20240227_1847">
+<license url="%licenseURL" >
+      %license
+  </license>
+    <description>
+      %description
+   </description>
+    <copyright>
+      %copyright
+   </copyright>
+    <plugin download-size="0" id="com.ibm.rrd.liberty.rules" install-size="0" unpack="false" version="1.30.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.rrd.liberty.rules.nl1" install-size="0" unpack="false" version="1.30.0.v20240227_1847"/>
+</feature>

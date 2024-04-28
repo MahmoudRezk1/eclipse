@@ -1,0 +1,19 @@
+<feature id="com.ibm.websphere.wdt.st.common" label="%FeatureName" provider-name="IBM" version="1.0.400.v20231128_1051">
+   <description>
+      %General
+   </description>
+   <copyright>
+      %Copyright
+   </copyright>
+   <license url="%licenseURL">
+      %License
+   </license>
+   <requires>
+      <import feature="com.ibm.jee.was.descriptors.feature" version="1.0.0.qualifier"/>
+      <import feature="com.ibm.wdt.javaee.feature" match="greaterOrEqual" version="1.0.100.qualifier"/>
+      <import feature="com.ibm.ws.ast.jythontools" version="6.1.103.qualifier"/>
+      <import feature="com.ibm.ws.ast.batch.common" version="1.0.0.qualifier"/>
+      <import feature="com.ibm.ws.ast.base.common" version="1.0.0.qualifier"/>
+   </requires>
+   <plugin download-size="0" id="com.ibm.websphere.wdt.stubs" install-size="0" version="1.0.4.v20231128_1051"/>
+</feature>

@@ -1,0 +1,18 @@
+<feature id="com.ibm.websphere.ast.st.v9.wdt.fe" label="%FeatureName" provider-name="%providerName" version="1.1.1.v20231128_1051">&gt;
+
+
+   <description>
+      %General
+   </description>
+
+   <copyright>
+      %Copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %License
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.st.v9.wdt" install-size="0" unpack="false" version="1.1.102.v20231128_1051"/>
+
+</feature>

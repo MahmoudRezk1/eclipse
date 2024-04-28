@@ -1,0 +1,5 @@
+com.ibm.etools.wrd.websphere.v9/debug=false
+com.ibm.etools.wrd.websphere.v9/debug/error=false
+com.ibm.etools.wrd.websphere.v9/debug/warning=false
+com.ibm.etools.wrd.websphere.v9/debug/info=false
+com.ibm.etools.wrd.websphere.v9/debug/details=false

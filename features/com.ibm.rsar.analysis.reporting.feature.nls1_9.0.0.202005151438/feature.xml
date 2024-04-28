@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.rsar.analysis.reporting.feature.nls1"
+      label="%name"
+      version="9.0.0.202005151438"
+      provider-name="%provider">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.ibm.rsar.analysis.reporting.feature" version="9.0.0.qualifier"/>
+   </requires>
+
+   <plugin
+         id="com.ibm.rsar.analysis.core.reporting.nl1"
+         download-size="76"
+         install-size="101"
+         version="9.0.0.202005151438"
+         fragment="true"/>
+
+   <plugin
+         id="com.ibm.rsar.analysis.reporting.ui.nl1"
+         download-size="50"
+         install-size="82"
+         version="9.0.0.202005151438"
+         fragment="true"/>
+
+</feature>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+
+   <!-- Wizard Defaults -->
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <primaryWizard
+            id="com.ibm.etools.webtools.webproject.wizard">
+      </primaryWizard>
+      <primaryWizard
+            id="org.eclipse.jdt.ui.wizards.JavaProjectWizard">
+      </primaryWizard>
+      <primaryWizard
+            id="PortletProjectCreation">
+      </primaryWizard>  
+   </extension>
+   
+   <!-- Help Content -->
+   <extension
+      point="com.ibm.ccl.help.preferenceharvester.harvester">
+      <ICinfo
+          host="www.ibm.com"
+          name="WebSphere Application Server Developer Tools"
+          path="/support/knowledgecenter/SSHR6W"
+          port="80">
+      </ICinfo>
+   </extension>
+   
+   <!-- Welcome Page Content -->
+   <extension point="org.eclipse.ui.intro.configExtension">
+      <configExtension configId="org.eclipse.ui.intro.universalConfig"
+                       content="$nl$/intro/overview.xml"/>
+       
+      <configExtension configId="org.eclipse.ui.intro.universalConfig"
+                       content="$nl$/intro/whatsnew.xml"/>
+      <action
+            name="openInstaller"
+            replaces="runAction?pluginId=com.ibm.wdt.install.ui&amp;class=com.ibm.wdt.install.ui.WDTInstallerAction">
+      </action>
+
+   </extension>
+</plugin>

@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: juFsMJF6Pnbp49VrNHkLmOq/5hRb4
+ q5wG04EgPIxBzg=
+SHA-256-Digest-Manifest: m1fOsSmGI+67QOWDb0AGzb4ihnnK3N3PsW6fw87Awe8=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: com/ibm/ast/ws/jaxws/emitter/jws22/v85/plugin.properties
+SHA-256-Digest: baUpc/id4QXKo0onXzd9oza983Pr2ZAYQ080OioIdqM=
+
+Name: plugin.xml
+SHA-256-Digest: 9yJqNpVRXF1pjD1ePMFQlMJ4On9AaJy9jaF4hJI4EFQ=
+
+Name: plugin.properties
+SHA-256-Digest: QP3xHqDRafnt9gmILC3OIhUJqYboiTJEuWQQ+IBgRFY=
+
+Name: runtime/jaxws-core-jws22-v85.jar
+SHA-256-Digest: g5eyxmtlhABWktuyTvLeUq2JPv+PHEX0NhIV+QOQLzg=
+

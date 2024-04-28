@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<introContent>
+	<extensionContent id="com.ibm.websphere.wdt"
+		name="IBM WebSphere Application Server Developer Tools for Eclipse"
+		style="css/overview.css" path="overview/@">
+		<group id="content-group" style-id="content-group">
+			<link id="wdt-overview" style-id="content-link"
+				label="IBM WebSphere Application Server Developer Tools for Eclipse"
+				url="https://www.ibm.com/support/knowledgecenter/SSHR6W/com.ibm.websphere.wdt.doc/topics/wdt_overview.htm">
+				<text>Read the overview to learn about IBM WebSphere Application
+					Server Developer Tools for Eclipse.</text>
+			</link>
+			<group style-id="content-group" id="additional-content-group">
+				<link id="wdt-installer" style-id="content-link"
+					label="WebSphere Software Installer"
+					url="http://org.eclipse.ui.intro/openInstaller?id=com.ibm.wdt.install.ui.WDTInstaller">
+					<text>Add optional WebSphere Application Server Developer Tools for
+						Eclipse features such as Java Batch, and recommended WebSphere
+						software such as WebSphere Application Server Migration Toolkit</text>
+				</link>
+			</group>
+		</group>
+	</extensionContent>
+</introContent>

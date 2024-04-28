@@ -1,0 +1,9 @@
+
+a#wdt-noteworthy img {
+	background-image: url(../../icons/wdt-was-lp-32.png);
+}
+
+a#wdt-noteworthy:hover img {
+	background-image: url(../../icons/wdt-was-lp-32.png);
+}
+

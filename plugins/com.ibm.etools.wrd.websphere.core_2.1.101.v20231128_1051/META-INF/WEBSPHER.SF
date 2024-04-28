@@ -1,0 +1,21 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: ykNkebs2F8JfMrnE3yRD/ZfsyKCJZ
+ iP8KNMHvtgVSzw=
+SHA-256-Digest-Manifest: 0hCcPGUiDTYk4M9W7ddcOqcG9m5o+ft7Z65z0IOeV84=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: lib/com.ibm.ws.ast.st.standalone.jmx.jar
+SHA-256-Digest: ox8hwYWI/qVvkpRf1gWc47mgrBu9rL+LcJ4ombRHRsw=
+
+Name: .options
+SHA-256-Digest: fsawlFxEaHEL/M90WDMy12Cn9R4hmYn4ckiEOeDp26Q=
+
+Name: plugin.xml
+SHA-256-Digest: Ryhd0WgsoUCikN01TMOUNw6QHVQNUXJP0FN8R0F53Mw=
+
+Name: plugin.properties
+SHA-256-Digest: wjGMj7kH32NHali+Y0JDNliCLl0UR2r2nJ/HLw0pu0A=
+
+Name: wrdWasCore.jar
+SHA-256-Digest: BfafgdUaxIfV/+Fy/gxIVlWpjPvdwe63cCrBAZdKplA=
+

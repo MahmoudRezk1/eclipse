@@ -1,0 +1,30 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 7IOJ6rtlrxPRx+huzBkpU182ivrRg
+ ZfGptgFDsp5PrQ=
+SHA-256-Digest-Manifest: uDhPhne3AaUPPT+lIcsBYjdX2wevDgNSF8P7YHffx5s=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: intro/overview.xml
+SHA-256-Digest: 5q4l0JfuxsbQ4G4gTLain3Qg/kpZH4TZu8rlJeoJZ6g=
+
+Name: intro/whatsnew.xml
+SHA-256-Digest: lPT8WCaor5+7n/75Ibpwnc3r3XbiGBUX27z44DNefmc=
+
+Name: intro/css/whatsnew.css
+SHA-256-Digest: IViw00h4oR/VMaiYzvo5mcKU7iG0UJy3qQ+Tctq11sk=
+
+Name: plugin.xml
+SHA-256-Digest: eVRMPDtdof4jJmcugMlzNFyfKAAU6txEbGwujfKD0Ks=
+
+Name: icons/wdt-was-lp-32.png
+SHA-256-Digest: SV+/tcxZJRLh3VTQe7b9U2alWFJtyO/sRWZW9ghm1Uw=
+
+Name: plugin.properties
+SHA-256-Digest: A5n4c9Y2ENOeyQYJTeyOO1+ucUSd+DpTEDomYX/tul8=
+
+Name: intro/css/overview.css
+SHA-256-Digest: vIwx7iECjPSxDl6JbOhw0QamXWhXMecTWX4b3oPRdU8=
+
+Name: icons/Bluemix-white-50-37.png
+SHA-256-Digest: 7x/U9YX+wKMZtowYzmsqMpJVpF5WSsXkYr+twj02Oyk=
+

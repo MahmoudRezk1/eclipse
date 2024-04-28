@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 4dhW2aFfvanus78QwMs9I4ykpSMQy
+ vCH8jtId0QPd7E=
+SHA-256-Digest-Manifest: WXe7vBBi/Zfwko7TFaLxLXo//xp0f0R9ooDOkwpp22Q=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: eclipselink-2.7.0.jar
+SHA-256-Digest: 8pINrmJfgI30lyUaAwZ8tWqSjdur8PWVWyaMe4tdPzY=
+
+Name: jaxb-api.jar
+SHA-256-Digest: 3W6YkW0ZFU6fH+zYkuvh3wMTAYLm/wcaWiFnIjQFe8Y=
+
+Name: reactive-1.0.5.3.jar
+SHA-256-Digest: A/sByNEm9PXn+nn9SCG86KkhRjNpwXX3vBPv3Ilmy2c=
+
+Name: sapdf.jar
+SHA-256-Digest: 8AAlfLHCAutgvzGSB5IImVz3t3+VzfyIpDxAUpK9MVo=
+
+Name: META-INF/maven/com.ibm.common-components.saapi/com.ibm.common.co
+ mponents.static.analysis.core.results.exporter.pdf/pom.xml
+SHA-256-Digest: a/Uhk3ts/vBm0JKKDRqS7zqa82NlDWKRjZd09vqfeUo=
+
+Name: META-INF/maven/com.ibm.common-components.saapi/com.ibm.common.co
+ mponents.static.analysis.core.results.exporter.pdf/pom.properties
+SHA-256-Digest: bqI+gsGFS89TcFgvnfyFAEiQDSOhh+NkymMoZkqFPc4=
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+<plugin>  
+    
+	<!-- WebSphere JDK 6 JAX-WS 2.2 libraries extension point -->   
+	<!--
+	<extension-point id="wasJaxwsLibs" name="WebSphere Libraries"/> -->
+   
+
+<!--
+	<extension
+		id="com.ibm.ast.ws.jaxws.emitter.jws22.v85.wasJaxwsLibs"
+		name="WAS v8.5 JAX-WS 2.2 libraries"
+		point="com.ibm.ast.ws.jaxws.emitter.jws22.v85.wasJaxwsLibs">
+        <waslib bundle="com.ibm.jaxws.tools" directory="plugins"/>
+        <waslib bundle="com.ibm.jaxb.tools" directory="plugins"/>
+        <waslib bundle="com.ibm.wsfp.main" directory="plugins"/>
+	</extension> -->
+	
+	<extension
+	    point="com.ibm.ast.ws.jaxws.emitter.ProjectDescription"
+	    id="com.ibm.ast.ws.jaxws.emitter.jws22.v85.util.ProjectDescription">
+	  <class name="com.ibm.ast.ws.jaxws.emitter.jws22.v85.util.ProjectDescription"/>
+	</extension>	    
+
+
+
+	<!-- class to call for JAX-WS tools on WAS v8.5 -->
+	<extension
+		id="com.ibm.ast.ws.jaxws.emitter.was85.EmitterDefinition"
+		name="WAS v8.5 JAX-WS emitter"
+		point="com.ibm.ast.ws.jaxws.emitter.EmitterMatcher">
+		<project-facet facet="com.ibm.websphere.extended.web" version="8.5"/>
+		<project-facet facet="com.ibm.websphere.extended.ejb" version="8.5"/>
+		<project-facet facet="com.ibm.websphere.extended.appclient" version="8.5"/>
+		<project-facet facet="jws_dummy_utility_facet" version="3.0"/>
+		<serverType id="com.ibm.ws.ast.st.v85.server.*"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWsimportCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.WsImportCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWsgenCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.WsGenCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IXjcCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.XjcCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWebServiceAPCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.WebServiceAPCommand"/>
+	</extension>	
+
+
+	<!-- class to call for JAX-WS tools on WAS v9.0 -->
+	<extension
+		id="com.ibm.ast.ws.jaxws.emitter.was9.EmitterDefinition"
+		name="WAS v9.0 JAX-WS emitter"
+		point="com.ibm.ast.ws.jaxws.emitter.EmitterMatcher">
+		<project-facet facet="com.ibm.websphere.extended.web" version="9.0"/>
+		<project-facet facet="com.ibm.websphere.extended.ejb" version="9.0"/>
+		<project-facet facet="com.ibm.websphere.extended.appclient" version="9.0"/>
+		<project-facet facet="jws_dummy_utility_facet" version="3.0"/>
+		<serverType id="com.ibm.ws.ast.st.v9.server.*"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWsimportCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.WsImportCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWsgenCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.WsGenCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IXjcCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.XjcCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWebServiceAPCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.commandnew.WebServiceAPCommand"/>
+	</extension>
+
+	<!-- class to call for JAX-WS tools on WAS v8.5 -->
+	<!--
+	<extension
+		id="com.ibm.ast.ws.jaxws.emitter.was85.EmitterDefinition"
+		name="WAS v8.5 JAX-WS emitter"
+		point="com.ibm.ast.ws.jaxws.emitter.EmitterMatcher">
+		<project-facet facet="com.ibm.websphere.extended.web" version="8.5"/>
+		<project-facet facet="com.ibm.websphere.extended.ejb" version="8.5"/>
+		<project-facet facet="com.ibm.websphere.extended.appclient" version="8.5"/>
+		<project-facet facet="jws_dummy_utility_facet" version="3.0"/>
+		<serverType id="com.ibm.ws.ast.st.v85.server.*"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWsimportCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.command.WsImportCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWsgenCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.command.WsGenCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IXjcCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.command.XjcCommand"/>
+		<class interface="com.ibm.ast.ws.jaxws.emitter.command.IWebServiceAPCommand" implClass="com.ibm.ast.ws.jaxws.emitter.jws22.v85.command.WebServiceAPCommand"/>	
+	</extension>	-->
+
+	
+  	<extension point="org.eclipse.jdt.core.classpathVariableInitializer">
+  	   <classpathVariableInitializer
+            class="com.ibm.ast.ws.jaxws.emitter.util.CPVInitializer"
+            readOnly="true"
+            variable="WAS_V85JAXWS_WEBSERVICES_THINCLIENT"/>
+  	</extension>  		
+
+</plugin>

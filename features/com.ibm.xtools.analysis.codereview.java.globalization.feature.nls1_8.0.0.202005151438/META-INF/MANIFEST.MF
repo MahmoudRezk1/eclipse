@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: jenkins
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0
+
+Name: feature_it.properties
+SHA-256-Digest: bSykKPxEKwbV6Yjngnbox4GUWVtJjMjXufk2qdl14/0=
+
+Name: feature_ja.properties
+SHA-256-Digest: KWnWhMH3MUIZg0dynl3HaTPthAUW8ZsbDE0qjVCu9mM=
+
+Name: feature_de.properties
+SHA-256-Digest: R+uTaFolNxWT4J27JNf5UsVRdZBmHnnwvvt6uH5Acug=
+
+Name: feature_es.properties
+SHA-256-Digest: +nzTuiva7VvpnVeSSIs0Madu7KMO980kWpAHDKwuFVo=
+
+Name: feature_zh.properties
+SHA-256-Digest: 6W7V0rJPc3uXmgJYpYLqGI3cQsfytzVrU+Ir+336pR8=
+
+Name: feature_zh_TW.properties
+SHA-256-Digest: WbjD6RFH3bRdGN5b479oPUMGBcLgFxruYrXs/BS42ck=
+
+Name: feature_pt_BR.properties
+SHA-256-Digest: xBjJRo1ZZk/IKZ3Ru73NXLs/vG1WTbGDfeabH6pZzJs=
+
+Name: feature.xml
+SHA-256-Digest: PJyouwuTQn4/PVBUghZdyw0CQdZ16mc63BCp8XB7T+g=
+
+Name: feature_fr.properties
+SHA-256-Digest: 0leWGIyLbEs95EN+EZhBzR4yt3SGkmjK1ydEVrOhxCQ=
+
+Name: feature.properties
+SHA-256-Digest: F8D8b6OehtZ5UQ9TdTB3b0Qizp745fr21BW9AJ4J/J8=
+
+Name: feature_ko.properties
+SHA-256-Digest: eZh00xJ5k+aRLg++IKu9R/N9kkDqHkOt972Yj+OYVJo=
+
+Name: feature_zh_HK.properties
+SHA-256-Digest: WbjD6RFH3bRdGN5b479oPUMGBcLgFxruYrXs/BS42ck=
+

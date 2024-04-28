@@ -1,0 +1,51 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: n01+GwB5BK5t1knBRS3+O0Bn0IsNt
+ eDUC8aPjcDEzcs=
+SHA-256-Digest-Manifest: Qnt6gBSr+08c8DoVU6c9RvHrnZ7Nm1JErVhqZ5+2gYM=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: wasJars/ibmcfw.jar
+SHA-256-Digest: wO9EDaHuueI079c3qnfY0u7gwFHCrpyjud33Dpdq2KU=
+
+Name: plugins/com.ibm.ws.security.crypto.jar
+SHA-256-Digest: aCmFTePbVdK1AP2Q08BWO9kmL9eXFbfznZr8lQBFsIE=
+
+Name: wasJars/com.ibm.ws.admin.services.jar
+SHA-256-Digest: m00Ag05zi7ctajKHckJw1ai7Gawa/chNkZtWIBn2vik=
+
+Name: wasJars/com.ibm.ws.runtime.dist.jar
+SHA-256-Digest: ga3U2ylegNojRGfrEhD7O5OdpXmzGjQEs/rBdVUSjDw=
+
+Name: plugin.properties
+SHA-256-Digest: /7jCqUqHklvUBMS4AFBXt2EAhIPfgd8qrxBIZB46Boo=
+
+Name: wasJars/com.ibm.ws.prereq.nativefile.jar
+SHA-256-Digest: H5NkWkHoQQiZulxNzlvCn8QtIwVzlblONkiokz+ETb4=
+
+Name: WAS.product
+SHA-256-Digest: 2mMpNX2+HpokP61P+urFxtopndV2/Kpk4UjkxdBHkvc=
+
+Name: wasRuntimeUtilV9Core.jar
+SHA-256-Digest: /LpLtYB9bf6AmFBy5pceKTMlLW+Ne+zbgMReMn4ILaE=
+
+Name: wasJars/ibmkeycert.jar
+SHA-256-Digest: jeD1gOHOFucfE5Ia/N1A3YuG7/zhc8EmJUG374BSSZc=
+
+Name: wasJars/com.ibm.ws.admin.client_9.0.jar
+SHA-256-Digest: xwgYqlUC1uOVSngFh7ZcQt5FB7mqiv0rBrQydjw8BEM=
+
+Name: wasJars/wsprofile.jar
+SHA-256-Digest: qkUzzDleMYyNY8ZBelP1NFF355JQkXqLXK+oJoeUyfs=
+
+Name: build.properties
+SHA-256-Digest: atn1tn2rGYlL1DL45Vo22FtYsfNxDEXmDCu5MirFQ5A=
+
+Name: wasJars/com.ibm.ws.prereq.commons-logging.jar
+SHA-256-Digest: OpSvh1fVW9gu9c0EFl2mPn+z4vZEO05cIxqlYcQJyQI=
+
+Name: wasJars/com.ibm.ws.orb_9.0.jar
+SHA-256-Digest: Y+ssXT5ekXdhJgQ0fV7GE9sUlnSYPm33/MmmKOTm2ec=
+
+Name: wasJars/configmanager.jar
+SHA-256-Digest: QZmDc/YDJ9oXxgSIKM3eGbtLyh7KLm/jz9Qq82y08sY=
+

@@ -1,0 +1,13 @@
+<feature id="com.ibm.ws.ast.rat.v9.webservices" label="%featureName" provider-name="%providerName" version="1.0.201.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ast.ws.jaxrs.v9" install-size="0" unpack="false" version="1.0.151.v20231128_1051"/>
+
+</feature>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.rsaz.analysis.codereview.java.feature.nls1"
+      label="%featureName"
+      version="8.0.0.202005151438"
+      provider-name="%providerName">
+
+   <description url="http://www.example.com/description">
+      %description
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      %copyright
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      %license
+   </license>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.codereview.java.nl1"
+         download-size="37"
+         install-size="69"
+         version="8.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.codereview.java.rules.base.nl1"
+         download-size="1195"
+         install-size="6493"
+         version="8.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.codereview.java.rules.nl1"
+         download-size="546"
+         install-size="1542"
+         version="8.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.codereview.java.ui.nl1"
+         download-size="28"
+         install-size="51"
+         version="1.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.codereview.java.rules.ui.quickfix.nl1"
+         download-size="29"
+         install-size="61"
+         version="1.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.codereview.java.rules.base.ui.quickfix.nl1"
+         download-size="60"
+         install-size="153"
+         version="1.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.java.core.nl1"
+         download-size="18"
+         install-size="21"
+         version="8.0.0.202005151438"
+         fragment="true"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,12 @@
+requires.0.namespace = org.eclipse.equinox.p2.iu
+requires.0.name = com.ibm.ws.ast.base.jpa.feature.group
+requires.0.range = [1.0.0, 2.0.0)
+requires.0.optional = true
+requires.1.namespace = org.eclipse.equinox.p2.iu
+requires.1.name = com.ibm.ws.ast.base.jpa.eclipse43.feature.group
+requires.1.range = [1.0.0, 2.0.0)
+requires.1.optional = true
+requires.2.namespace = org.eclipse.equinox.p2.iu
+requires.2.name = com.ibm.ws.ast.base.jpa.eclipse44.feature.group
+requires.2.range = [1.0.0, 2.0.0)
+requires.2.optional = true

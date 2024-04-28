@@ -1,0 +1,13 @@
+<feature id="com.ibm.ws.ast.base.jpa.eclipse43" label="WebSphere Application Server Development JPA Base on Eclipse 4.3 and up" provider-name="IBM" version="1.400.200.v20231128_1051">
+   <description>
+      %General
+   </description>
+   <copyright>
+      %Copyright
+   </copyright>
+   <license>
+      %License
+   </license>
+   <plugin download-size="0" id="com.ibm.jee.jpa.core" install-size="0" unpack="false" version="1.201.101.v20231128_1051"/>
+   <plugin download-size="0" id="com.ibm.jee.jpa.was.ui" install-size="0" unpack="false" version="1.200.300.v20231128_1051"/>
+</feature>

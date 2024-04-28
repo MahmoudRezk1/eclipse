@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* ***************************************************************** */
+/* Licensed Materials - Property of IBM                              */
+/* (C) Copyright IBM Corp. 2016, 2024. All Rights Reserved.          */
+/*                                                                   */
+/* US Government Users Restricted Rights - Use, duplication or       */
+/* disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
+/* ***************************************************************** */
+-->
+<feature id="com.ibm.ws.appconversion_feature.common" label="%featureName" license-feature="com.ibm.ws.migrationtoolkit.license.feature" plugin="com.ibm.ws.appconversion" provider-name="%providerName" license-feature-version="24.0.0.1" version="3.37.0.v20240227_1847">
+<license url="%licenseURL" >
+      %license
+  </license>
+    <description>
+      %description
+   </description>
+    <copyright>
+      %copyright
+   </copyright>
+    <includes id="com.ibm.rrd.feature" version="3.23.0.v20240227_1847"/>
+    <requires>
+        <import match="greaterOrEqual" plugin="org.eclipse.core.runtime" version="3.4.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.core.filebuffers" version="3.4.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.core.resources" version="3.2.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.ltk.core.refactoring" version="3.2.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.text" version="3.4.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.ui.workbench" version="3.2.0"/>
+        <import plugin="org.eclipse.ui.ide"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.ui.workbench.texteditor" version="3.2.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.ltk.ui.refactoring" version="3.4.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.core.filesystem" version="1.2.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.swt" version="3.4.0"/>
+        <import plugin="org.eclipse.jst.jsp.core"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.wst.common.modulecore" version="1.1.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.jface" version="3.2.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.emf.ecore.xmi" version="2.4.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.emf.ecore" version="2.4.0"/>
+        <import plugin="org.eclipse.ui"/>
+        <import plugin="org.eclipse.jdt.core"/>
+        <import plugin="org.eclipse.jdt.launching"/>
+        <import plugin="org.eclipse.ui.editors"/>
+        <import plugin="org.eclipse.jem"/>
+        <import plugin="org.eclipse.wst.common.emf"/>
+        <import plugin="org.eclipse.jst.j2ee.core"/>
+        <import plugin="org.eclipse.jst.j2ee"/>
+        <import plugin="org.eclipse.jst.j2ee.ejb"/>
+        <import plugin="org.eclipse.jst.j2ee.web"/>
+        <import plugin="org.eclipse.equinox.common"/>
+        <import plugin="org.eclipse.wst.common.emfworkbench.integration"/>
+        <import plugin="org.eclipse.emf.common"/>
+        <import plugin="org.eclipse.wst.common.frameworks"/>
+        <import plugin="org.eclipse.wst.common.project.facet.core"/>
+        <import plugin="org.eclipse.jst.common.frameworks"/>
+        <import plugin="org.eclipse.wst.sse.ui"/>
+        <import plugin="org.eclipse.core.jobs"/>
+        <import plugin="org.eclipse.osgi"/>
+        <import plugin="org.eclipse.datatools.modelbase.sql"/>
+        <import plugin="org.eclipse.emf.mapping"/>
+        <import plugin="org.eclipse.emf.ecore.change"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.help" version="3.3.0"/>
+        <import match="greaterOrEqual" plugin="org.eclipse.help.base" version="3.3.0"/>
+        <import feature="com.ibm.rsar.analysis.reporting.feature" match="greaterOrEqual" version="9.0.0"/>
+        <import feature="com.ibm.rsar.analysis.reporting.feature.nls1" match="greaterOrEqual" version="9.0.0"/>
+        <import feature="com.ibm.rsar.compatibility.feature" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.rsaz.analysis.architecture.feature" match="greaterOrEqual" version="7.1.0"/>
+        <import feature="com.ibm.rsaz.analysis.codereview.java.feature" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.rsaz.analysis.codereview.java.feature.nls1" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.rsaz.analysis.codereview.feature" match="greaterOrEqual" version="9.0.0"/>
+        <import feature="com.ibm.rsaz.analysis.commandline.core.feature" match="greaterOrEqual" version="7.1.0"/>
+        <import feature="com.ibm.rsaz.analysis.feature" match="greaterOrEqual" version="9.0.0"/>
+        <import feature="com.ibm.rsaz.analysis.feature.nls1" match="greaterOrEqual" version="9.0.0"/>
+        <import feature="com.ibm.xtools.analysis.architecturaldiscovery.java.feature" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.j2ee.feature" match="greaterOrEqual" version="7.4.100"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.j2ee.feature.nls1" match="greaterOrEqual" version="7.3.100"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.j2se.feature" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.j2se.feature.nls1" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.security.feature" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.security.feature.nls1" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.xtools.analysis.commandline.feature" match="greaterOrEqual" version="7.4.1"/>
+        <import feature="com.ibm.xtools.analysis.commandline.feature.nls1" match="greaterOrEqual" version="7.3.1"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.globalization.feature" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.xtools.analysis.codereview.java.globalization.feature.nls1" match="greaterOrEqual" version="8.0.0"/>
+        <import feature="com.ibm.rsar.analysis.xml.feature" match="greaterOrEqual" version="6.0.0"/>
+    </requires>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.jsp" install-size="0" unpack="false" version="4.10.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.jsp.core" install-size="0" unpack="false" version="1.12.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion" install-size="0" unpack="false" version="3.40.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.base" install-size="0" unpack="false" version="3.16.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.dd" install-size="0" unpack="false" version="3.16.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.emf" install-size="0" unpack="false" version="3.12.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.nl1" install-size="0" unpack="false" version="3.40.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.base.nl1" install-size="0" unpack="false" version="3.16.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.dd.nl1" install-size="0" unpack="false" version="3.16.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.jsp.nl1" install-size="0" unpack="false" version="4.10.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.jsp.core.nl1" install-size="0" unpack="false" version="1.12.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.manifest" install-size="0" unpack="false" version="3.17.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.manifest.nl1" install-size="0" unpack="false" version="3.17.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.all.servers" install-size="0" unpack="false" version="1.20.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.all.servers.nl1" install-size="0" unpack="false" version="1.20.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.file" install-size="0" unpack="false" version="3.22.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.file.nl1" install-size="0" unpack="false" version="3.22.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.file.properties" install-size="0" unpack="false" version="3.17.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.appconversion.file.properties.nl1" install-size="0" unpack="false" version="3.17.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.report" install-size="0" unpack="false" version="2.36.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.report.nl1" install-size="0" unpack="false" version="2.36.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.report.binary" install-size="0" unpack="false" version="1.36.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.report.binary.nl1" install-size="0" unpack="false" version="1.36.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.report.was2liberty" install-size="0" unpack="false" version="2.23.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.report.was2liberty.nl1" install-size="0" version="2.23.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.report.was2liberty.technologies" install-size="0" unpack="false" version="1.16.0.v20240227_1847"/>
+    <plugin download-size="0" fragment="true" id="com.ibm.ws.report.was2liberty.technologies.nl1" install-size="0" version="1.16.0.v20240227_1847"/>
+</feature>

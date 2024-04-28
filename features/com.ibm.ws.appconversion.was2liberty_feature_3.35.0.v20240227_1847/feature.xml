@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* ***************************************************************** */
+/* Licensed Materials - Property of IBM                              */
+/* (C) Copyright IBM Corp. 2016, 2024. All Rights Reserved.          */
+/*                                                                   */
+/* US Government Users Restricted Rights - Use, duplication or       */
+/* disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
+/* ***************************************************************** */
+-->
+<feature id="com.ibm.ws.appconversion.was2liberty_feature" label="%featureName" license-feature="com.ibm.ws.migrationtoolkit.license.feature" plugin="com.ibm.ws.appconversion.was2liberty" provider-name="%providerName" license-feature-version="24.0.0.1" version="3.35.0.v20240227_1847">
+<license url="%licenseURL" >
+      %license
+  </license>
+    <description>
+      %description
+   </description>
+    <copyright>
+      %copyright
+   </copyright>
+    <requires>
+        <import feature="com.ibm.ws.appconversion_feature.common" match="greaterOrEqual" version="3.17.0"/>
+        <import feature="com.ibm.rrd.liberty.rules.feature" match="greaterOrEqual" version="1.6.0"/>
+        <import feature="com.ibm.ws.appconversion_feature.jre" match="greaterOrEqual" version="3.13.0"/>
+    </requires>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.was2liberty" install-size="0" unpack="false" version="1.37.0.v20240227_1847"/>
+    <plugin download-size="0" id="com.ibm.ws.appconversion.was2liberty.nl1" install-size="0" unpack="false" version="1.37.0.v20240227_1847"/>
+</feature>

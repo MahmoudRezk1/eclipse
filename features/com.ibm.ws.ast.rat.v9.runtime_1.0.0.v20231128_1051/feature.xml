@@ -1,0 +1,13 @@
+<feature id="com.ibm.ws.ast.rat.v9.runtime" label="%featureName" provider-name="IBM" version="1.0.0.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.websphere.v9.core" install-size="0" version="1.100.1.v20231128_1051"/>
+
+</feature>

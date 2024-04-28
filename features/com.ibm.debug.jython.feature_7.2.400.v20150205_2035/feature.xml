@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.debug.jython.feature"
+      label="%featureName"
+      version="7.2.400.v20150205_2035"
+      provider-name="IBM">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="com.ibm.debug.jython"
+         download-size="0"
+         install-size="0"
+         version="7.2.400.v20150205_2035"
+         unpack="false"/>
+
+</feature>

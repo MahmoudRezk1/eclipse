@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Export-Package: com.ibm.common.components.staticanalysis.core.results.
+ exporter.pdf,com.ibm.common.components.staticanalysis.internal.core.r
+ esults.exporter.pdf;x-friends:="com.ibm.common.components.static.anal
+ ysis.core.results.tests",com.ibm.common.components.staticanalysis.int
+ ernal.core.results.exporter.pdf.translation;x-friends:="com.ibm.commo
+ n.components.static.analysis.core.results.tests"
+Bundle-ClassPath: sapdf.jar,jaxb-api.jar,eclipselink-2.7.0.jar,reactiv
+ e-1.0.5.3.jar
+Built-By: jenkins
+Bundle-Name: SA PDF Exporter
+Created-By: Apache Maven 3.6.3
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: com.ibm.common.components.static.analysis.core.results
+Bundle-Vendor: IBM
+Automatic-Module-Name: com.ibm.common.components.static.analysis.core.
+ results.exporter.pdf
+Build-Jdk: 1.8.0
+Bundle-Version: 2.1.1.202106031627
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.ibm.common.components.static.analysis.core.re
+ sults.exporter.pdf
+Import-Package: com.ibm.common.components.staticanalysis.core.results.
+ exporters
+Archiver-Version: Plexus Archiver
+
+Name: eclipselink-2.7.0.jar
+SHA-256-Digest: ubD2uAZ7/vSOVIWnkIbXIaSHGRTi29aDEuvd2ZxqLV8=
+
+Name: jaxb-api.jar
+SHA-256-Digest: iLlVoN9XiAomp0cIvDT3Tcr46/TniEOii1Dq6UVzKwY=
+
+Name: reactive-1.0.5.3.jar
+SHA-256-Digest: 3WHUoIhSqBAZcq5vHs+OFlRyE9AQ46Cej0ZU2KydiK0=
+
+Name: sapdf.jar
+SHA-256-Digest: UYJIdrtCYh22Y1V1KskwkLbP9UCa3hFOn0p3nzGikzs=
+
+Name: META-INF/maven/com.ibm.common-components.saapi/com.ibm.common.co
+ mponents.static.analysis.core.results.exporter.pdf/pom.xml
+SHA-256-Digest: 3AZqZAjI3j+RVp1SsdRJKxP/HfYcGVgIdUZIyAS46lU=
+
+Name: META-INF/maven/com.ibm.common-components.saapi/com.ibm.common.co
+ mponents.static.analysis.core.results.exporter.pdf/pom.properties
+SHA-256-Digest: tpz3EoVWZlf2mx7xA9U0kzVtVDH/mt/HPRE5+4uRP74=
+

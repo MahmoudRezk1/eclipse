@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.rsaz.analysis.feature"
+      label="%name"
+      version="9.0.0.202005151438"
+      provider-name="%provider">
+
+   <description url="http://www.example.com/description">
+      %description
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      %copyright
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.core.resources" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.core.filebuffers" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.ui" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.debug.core" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.debug.ui" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.jface.text" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.ui.editors" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.ui.workbench.texteditor" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.ui.ide" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.ui.views" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.jdt.core" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.help" version="3.2.0" match="compatible"/>
+      <import plugin="com.ibm.rsaz.analysis.core" version="9.0.0" match="compatible"/>
+      <import plugin="org.eclipse.help.ui"/>
+      <import plugin="com.ibm.icu"/>
+      <import plugin="org.eclipse.jdt.ui" version="3.2.0" match="compatible"/>
+      <import plugin="com.ibm.rsaz.analysis.commandline.core" version="7.0.0" match="compatible"/>
+      <import plugin="org.eclipse.compare" version="3.4.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.navigator" version="3.2.0" match="compatible"/>
+      <import plugin="org.eclipse.ui.forms" version="3.3.0" match="compatible"/>
+      <import plugin="org.eclipse.jface.text" version="3.3.1" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.core"
+         download-size="210"
+         install-size="469"
+         version="9.0.0.202005151438"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.core.ui"
+         download-size="296"
+         install-size="616"
+         version="8.2.1.202005151438"
+         unpack="false"/>
+
+   <plugin
+         id="com.ibm.rsaz.analysis.compatibility"
+         download-size="5"
+         install-size="6"
+         version="8.0.0.202005151438"
+         unpack="false"/>
+
+</feature>

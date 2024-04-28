@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ibm.rsar.compatibility.feature"
+      label="Compatibility feature"
+      version="8.0.0.202005151438"
+      provider-name="IBM">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+
+   <plugin
+         id="com.ibm.rsaz.eclipse.ui.compatibility"
+         download-size="6"
+         install-size="8"
+         version="8.0.0.202005151438"
+         unpack="false"/>
+
+</feature>

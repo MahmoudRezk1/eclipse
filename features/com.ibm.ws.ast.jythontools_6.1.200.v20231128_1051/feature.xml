@@ -1,0 +1,19 @@
+<feature id="com.ibm.ws.ast.jythontools" label="%featureName" provider-name="IBM" version="6.1.200.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.jythontools.core" install-size="0" unpack="false" version="6.1.103.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.jythontools.ui" install-size="0" unpack="false" version="6.1.200.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.jythontools.wsadmin" install-size="0" unpack="false" version="6.1.103.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.jythontools.libraries" install-size="0" unpack="false" version="6.1.300.v20231128_1051"/>
+
+</feature>

@@ -1,0 +1,114 @@
+Manifest-Version: 1.0
+Export-Package: com.ibm.ws.jaxrs.collector,com.ibm.ws.jaxrs.core,com.i
+ bm.ws.jaxrs.finder,com.ibm.ws.jaxrs.model,com.ibm.ws.jaxrs.util
+Bundle-ActivationPolicy: lazy
+Bundle-Name: %BUNDLE_NAME
+Bundle-Localization: plugin
+Created-By: 17.0.4.1+1 (Eclipse OpenJ9)
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.4.0,4.0.0)
+ ",org.eclipse.core.resources;bundle-version="[3.4.0,4.0.0)",org.eclip
+ se.jdt.core;bundle-version="[3.6.0,4.0.0)",org.eclipse.jst.j2ee;bundl
+ e-version="[1.1.400,2.0.0)",org.eclipse.jst.server.core;bundle-versio
+ n="[1.2.101,2.0.0)",org.eclipse.jdt.launching;bundle-version="[3.5.2,
+ 4.0.0)",org.eclipse.jst.j2ee.web;bundle-version="[1.1.400,2.0.0)",org
+ .eclipse.jst.common.frameworks;bundle-version="[1.1.400,2.0.0)",com.i
+ bm.ccl.ws.finder.core;bundle-version="[1.0.102,2.0.0)",org.eclipse.ws
+ t.common.project.facet.core;bundle-version="[1.4.300,2.0.0)"
+Ant-Version: Apache Ant 1.8.4
+Bundle-Vendor: IBM
+Bundle-Version: 1.0.900.v20231128_1051
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.ibm.ws.jaxrs.core.Activator
+Bundle-SymbolicName: com.ibm.ws.jaxrs.core;singleton:=true
+
+Name: com/ibm/ws/jaxrs/core/Logger.class
+SHA-256-Digest: gy2fTRBdnAN63cTjNh6om5YCFvi8/FQVmTO3pypVV9Q=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractSourceFinder.class
+SHA-256-Digest: v58JCnpusECvd2VhPvmEabx+SHwxwwZHYhaGGrAv3uA=
+
+Name: com/ibm/ws/jaxrs/model/AbstractJAXRSResource.class
+SHA-256-Digest: eVXM88kbduPEakZ9zGM1D0iXGUhzcw62/zRoCgiJQzg=
+
+Name: com/ibm/ws/jaxrs/finder/FinderUtils.class
+SHA-256-Digest: zT63vKTP3aG2/Ql1J36voHBTuKYYJYS1QP7uYJl1K38=
+
+Name: com/ibm/ws/jaxrs/model/JAXRSResourceMethod.class
+SHA-256-Digest: C9qUrs+wO5Bu4awKZElXAFfZdTnB7lEKEB+EwbCL6PM=
+
+Name: com/ibm/ws/jaxrs/collector/JAXRSServiceCollector.class
+SHA-256-Digest: FNa98G83PjY3Bb7+OLGw/8m248E5srQXULI7+r/krdw=
+
+Name: com/ibm/ws/jaxrs/finder/ClasspathContainerListener.class
+SHA-256-Digest: mwJixsiamOHFajz1fFvUBks80yk/XERmbacwvcKJpjk=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractBinaryFinder$1.class
+SHA-256-Digest: gLBPka61EBnW3BB4VEvQ0j853feaq5vxDENbNIMvPOc=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractFinder$FinderType.class
+SHA-256-Digest: Zq1j931DD5e9dn1WwpkfTArk1dO4biQq3yTgX9fr5zs=
+
+Name: com/ibm/ws/jaxrs/util/StatusUtils.class
+SHA-256-Digest: w6IAdXDTOBQ8UK0/LPaZ3qJPLHGrVMU+6VXTM3vnhNo=
+
+Name: com/ibm/ws/jaxrs/collector/JAXRSBinaryServiceCollector.class
+SHA-256-Digest: 8LfpGtkqZrao8CTzRX+h4ZALQtxEsOOzYhuG7MAs3y0=
+
+Name: com/ibm/ws/jaxrs/collector/JAXRSSourceServiceCollector.class
+SHA-256-Digest: jCcRXvKoF/i1pRxycWxktbn/BvYTAfcagC9B6WgY3nI=
+
+Name: com/ibm/ws/jaxrs/model/JAXRSRootResource.class
+SHA-256-Digest: CG3mPuEb417aO6dnxfN1PHTgNxmobHGa4rhPadBWn7o=
+
+Name: com/ibm/ws/jaxrs/core/Activator.class
+SHA-256-Digest: gCBm2jgYJvFowXz3dQkuQH27g9dRHLua9aNBHehcujU=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractFinder$1.class
+SHA-256-Digest: 2rT8LaZ18gzKsjYhBl+lrXhBT9Zre16MPHtwqL3Gp2c=
+
+Name: com/ibm/ws/jaxrs/collector/MethodSignature$Annotation.class
+SHA-256-Digest: MsIItOiJwq0oOjhuDGLC0M2m+2SS+ZQwMOy8YTgex7Q=
+
+Name: com/ibm/ws/jaxrs/finder/ServiceSourceFinder.class
+SHA-256-Digest: mjcnFaK9loVHAh1ampUwUkzX9ekRGwHR4+bU/ViUuCo=
+
+Name: com/ibm/ws/jaxrs/finder/ServiceBinaryFinder.class
+SHA-256-Digest: oUufgDsEaeIqkICEggskaMporzvNi9Ilm5iUEjOG+Ts=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractSourceFinder$1.class
+SHA-256-Digest: Q2fzRQd9lqMDChprrYS/6OkJZsRe3jalpr3QaaW747o=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractBinaryFinder.class
+SHA-256-Digest: 3w7CiHUDqtdnySWxFpS88ur834/qh6MbkR/Acq+5O7c=
+
+Name: plugin.properties
+SHA-256-Digest: bRHLLIWrmP381W0A40zaTWSebmxUpGa56+YZCtkLYoQ=
+
+Name: com/ibm/ws/jaxrs/finder/FinderUtils$1.class
+SHA-256-Digest: imvSQOZpGfiA+OIVrHSUU315X8YTbINzXxYIIxDdoSc=
+
+Name: icons/jaxrs_template_16.gif
+SHA-256-Digest: /7nziWDABnPIGnziL9ozsyMEP0cOBCahlYPe8sgSlcM=
+
+Name: com/ibm/ws/jaxrs/model/RequestMethodDesignator.class
+SHA-256-Digest: we1p4OPHOkJuH7ObdVXgnswnkTZ/E/6tRfBTNnKaK40=
+
+Name: com/ibm/ws/jaxrs/collector/MethodSignature.class
+SHA-256-Digest: I7DAa1VZvdM1cuOmROfOp7xF50+2fcTAXaF45HMmYZo=
+
+Name: com/ibm/ws/jaxrs/collector/JaxRsCollectorDebug.class
+SHA-256-Digest: u2M3jN8t7YIwdaMuiVUIcpjDurWhNf7codZ9Jn35l8U=
+
+Name: com/ibm/ws/jaxrs/finder/AbstractFinder.class
+SHA-256-Digest: Z9esrRUrPWjh8arkzzT/DUQrtSsidsg3jSevaymylto=
+
+Name: plugin.xml
+SHA-256-Digest: ZTLvYYrI3mvf7IPIGe8CJkgQ2ksS9YtXPrZbZffSkJU=
+
+Name: com/ibm/ws/jaxrs/finder/IJAXRSFinderConstants.class
+SHA-256-Digest: 8sww/kqKobC88fz7p8uOEW/N+rkYFQqgYvk7JCAHyAE=
+
+Name: icons/jax-rs-resource_obj.gif
+SHA-256-Digest: nbo5YHhCOx3sVzWJgj8SICWryBe//QhG63XDMzIsBGs=
+

@@ -1,0 +1,17 @@
+<feature id="com.ibm.ws.ast.rat.v9.common" label="%featureName" provider-name="IBM" version="1.1.102.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.st.v9.core" install-size="0" unpack="false" version="1.0.53.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.st.v9.ui" install-size="0" unpack="false" version="1.0.50.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.etools.wrd.websphere.v9" install-size="0" version="1.1.101.v20231128_1051"/>
+
+</feature>
