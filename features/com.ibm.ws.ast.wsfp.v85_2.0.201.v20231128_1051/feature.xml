@@ -1,0 +1,15 @@
+<feature id="com.ibm.ws.ast.wsfp.v85" image="rtFeatUpdate.gif" label="%featureName" provider-name="IBM" version="2.0.201.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ast.ws.jaxws.emitter.jws22.v85" install-size="0" version="2.0.101.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ast.ws.was85.policyset.ui" install-size="0" unpack="false" version="2.0.100.v20231128_1051"/>
+
+</feature>

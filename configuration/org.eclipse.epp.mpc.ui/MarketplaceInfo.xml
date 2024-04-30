@@ -209,6 +209,14 @@
     </object>
    </void>
    <void method="put">
+    <string>org.eclipse.fx.ide.feature.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#335225</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>MCUprog</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -359,6 +367,22 @@
     </object>
    </void>
    <void method="put">
+    <string>org.eclipse.jdt.java22patch.source</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5585660</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.skcc.plugin.aicoding</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5690830</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>org.jboss.tools.windup.feature</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -463,6 +487,14 @@
      </void>
      <void method="add">
       <string>https://marketplace.eclipse.org#4716941</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.eclipse.jdt.java22patch</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5585660</string>
      </void>
     </object>
    </void>
@@ -702,6 +734,14 @@
     </object>
    </void>
    <void method="put">
+    <string>com.ibmcloud.eclipse.cli.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5513333</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>com.ibm.mq.explorer.feature</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -808,6 +848,14 @@
      </void>
      <void method="add">
       <string>https://marketplace.eclipse.org#4716941</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>de.yatta.ideintruders.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5583657</string>
      </void>
     </object>
    </void>
@@ -1008,6 +1056,14 @@
     </object>
    </void>
    <void method="put">
+    <string>wai</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5460189</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>MCUhelp.binutils</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -1096,6 +1152,14 @@
      </void>
     </object>
    </void>
+   <void method="put">
+    <string>com.opcoach.genmodeladdon.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#3043584</string>
+     </void>
+    </object>
+   </void>
   </void>
   <void property="nodeKeyToIU">
    <void method="put">
@@ -1169,6 +1233,17 @@
     </object>
    </void>
    <void method="put">
+    <string>https://marketplace.eclipse.org#5585660</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>org.eclipse.jdt.java22patch</string>
+     </void>
+     <void method="add">
+      <string>org.eclipse.jdt.java22patch.source</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>https://marketplace.eclipse.org#53864</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -1214,10 +1289,26 @@
     </object>
    </void>
    <void method="put">
+    <string>https://marketplace.eclipse.org#5513333</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.ibmcloud.eclipse.cli.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>https://marketplace.eclipse.org#3493769</string>
     <object class="java.util.ArrayList">
      <void method="add">
       <string>de.jcup.egradle.eclipse.feature.editor</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5460189</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>wai</string>
      </void>
     </object>
    </void>
@@ -1409,6 +1500,14 @@
     </object>
    </void>
    <void method="put">
+    <string>https://marketplace.eclipse.org#3043584</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.opcoach.genmodeladdon.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>https://marketplace.eclipse.org#4492195</string>
     <object class="java.util.ArrayList">
      <void method="add">
@@ -1588,10 +1687,26 @@
     </object>
    </void>
    <void method="put">
+    <string>https://marketplace.eclipse.org#5583657</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>de.yatta.ideintruders.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
     <string>https://marketplace.eclipse.org#3759385</string>
     <object class="java.util.ArrayList">
      <void method="add">
       <string>cucumber.eclipse.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5690830</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.skcc.plugin.aicoding</string>
      </void>
     </object>
    </void>
@@ -1622,6 +1737,14 @@
      </void>
      <void method="add">
       <string>com.eco.bio7.jfxswt.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#335225</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>org.eclipse.fx.ide.feature.feature.group</string>
      </void>
     </object>
    </void>

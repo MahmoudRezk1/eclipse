@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 17.0.4.1+1 (Eclipse OpenJ9)
+
+Name: notices.html
+SHA-256-Digest: WFZZ9PZemvzAJGNO+aEQby+I99msJuwB5NK4C9b4gG4=
+
+Name: feature_ru.properties
+SHA-256-Digest: IlYMWt+Owz3P33vZDxQNDhZ7vQ2q3+VtAbQosAQLIUw=
+
+Name: feature_pl.properties
+SHA-256-Digest: 0RNkDK4CgR8AspYNNL57HkUF0Z3jZTdqIF2+eu+34ec=
+
+Name: p2.inf
+SHA-256-Digest: Pbn/m/aAxvy+zEI9xFzbtiIWEAQTGh7ZgpbluuPGAbU=
+
+Name: feature_cs.properties
+SHA-256-Digest: OHMbpNSmvX1ygb3Epxum3TcniTZuaASeJR89cx7oxr4=
+
+Name: feature_sl.properties
+SHA-256-Digest: gTKLO7zsKzO3aaUbj3hzUWgaAXZHW3FF6b0j5Fw5GcQ=
+
+Name: feature_lt.properties
+SHA-256-Digest: 93YPCqRRuVOLW4AbtnpAc8JfVxdoC9Xbxyl5FB9Jf50=
+
+Name: feature.xml
+SHA-256-Digest: VBnhlxROF9DQX72rTvD59/1FYqA/6b+zWj2QmlZ2NDU=
+
+Name: feature_ko.properties
+SHA-256-Digest: wbzLW0QXkFkYOuKAdDFm2t6NmmBYs3D3wdLIMtdSsNw=
+
+Name: feature_de.properties
+SHA-256-Digest: 3sJGu1XjQqG+EGuHaWph4/nKyZBWPhTsR93eXzm7u04=
+
+Name: feature_es.properties
+SHA-256-Digest: RNHL1IsUvN8BAu25h1igYs4oCtDie7AAN7u7jV/3d6A=
+
+Name: feature_in.properties
+SHA-256-Digest: 3/JnBkKQjkzZcOqnS4XKG4kNs4PASJwF0tVwhJMOE48=
+
+Name: feature_it.properties
+SHA-256-Digest: OVlLM3yoQWTad8sQ3drLRI2DG2v0VB68ix4nZcVfzDs=
+
+Name: feature_pt.properties
+SHA-256-Digest: YjxwJZF8ljI2enYEkqbxwgqLfkaKD/8UtQ0s+zzi2wI=
+
+Name: feature_ja.properties
+SHA-256-Digest: s2ntAMqYufyKwHXnzjhhTcT/DSNkA9Rfh0TQajTgBUk=
+
+Name: license.html
+SHA-256-Digest: nKTTUfRNF7lc17BruULJoRbzsaD7F+pSoSJe4S5oNEQ=
+
+Name: feature_zh_TW.properties
+SHA-256-Digest: zztHX5F3cteWto1dIvuUjZ7/gi5PUQhxzeoKrxPZ0ik=
+
+Name: feature_zh.properties
+SHA-256-Digest: WaYTFILucow+1G6gwLTfSmWiKW4iHDrYgMOBSWzH2u8=
+
+Name: feature_fr.properties
+SHA-256-Digest: tTznH0IyqRiqjK7DdIzlVMAL07o+TPhxMDkoBsIGg20=
+
+Name: feature_tr.properties
+SHA-256-Digest: cPYHH6H+Xmg3vfCQ5aRFaJ3LZrMI1HBRs+adLDjScaU=
+
+Name: feature_el.properties
+SHA-256-Digest: +qGjDESm3LJ0Y0VBqzR5/lH/WAQe3Br5cnGwBS9MCEY=
+
+Name: feature.properties
+SHA-256-Digest: 4PVgOzk5YAeW7DIsAaI2F7XthdoJyF0p2NTwkGmNBiY=
+

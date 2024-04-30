@@ -21,8 +21,10 @@ com.ibm.ast.ws.binding.config.ui,2.0.0.v20231128_1051,plugins/com.ibm.ast.ws.bin
 com.ibm.ast.ws.gsc,1.0.300.v20231128_1051,plugins/com.ibm.ast.ws.gsc_1.0.300.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxb.ui,2.0.0.v20231128_1051,plugins/com.ibm.ast.ws.jaxb.ui_2.0.0.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxrs.common,2.0.0.v20231128_1051,plugins/com.ibm.ast.ws.jaxrs.common_2.0.0.v20231128_1051.jar,4,false
+com.ibm.ast.ws.jaxrs.v85,1.0.300.v20231128_1051,plugins/com.ibm.ast.ws.jaxrs.v85_1.0.300.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxrs.v9,1.0.151.v20231128_1051,plugins/com.ibm.ast.ws.jaxrs.v9_1.0.151.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxws.annotations,2.0.100.v20231128_1051,plugins/com.ibm.ast.ws.jaxws.annotations_2.0.100.v20231128_1051.jar,4,false
+com.ibm.ast.ws.jaxws.annotations.v85,2.0.0.v20231128_1051,plugins/com.ibm.ast.ws.jaxws.annotations.v85_2.0.0.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxws.annotations.v9,2.0.1.v20231128_1051,plugins/com.ibm.ast.ws.jaxws.annotations.v9_2.0.1.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxws.creation.ejb.ui,2.100.100.v20231128_1051,plugins/com.ibm.ast.ws.jaxws.creation.ejb.ui_2.100.100.v20231128_1051.jar,4,false
 com.ibm.ast.ws.jaxws.creation.ui,2.100.100.v20231128_1051,plugins/com.ibm.ast.ws.jaxws.creation.ui_2.100.100.v20231128_1051.jar,4,false
@@ -34,6 +36,7 @@ com.ibm.ast.ws.jaxws.samples,2.0.0.v20231128_1051,plugins/com.ibm.ast.ws.jaxws.s
 com.ibm.ast.ws.policyset.ui,2.0.0.v20231128_1051,plugins/com.ibm.ast.ws.policyset.ui_2.0.0.v20231128_1051.jar,4,false
 com.ibm.ast.ws.service.policy.ui,2.0.1.v20231128_1051,plugins/com.ibm.ast.ws.service.policy.ui_2.0.1.v20231128_1051.jar,4,false
 com.ibm.ast.ws.ui,7.0.0.v20231128_1051,plugins/com.ibm.ast.ws.ui_7.0.0.v20231128_1051.jar,4,false
+com.ibm.ast.ws.was85.policyset.ui,2.0.100.v20231128_1051,plugins/com.ibm.ast.ws.was85.policyset.ui_2.0.100.v20231128_1051.jar,4,false
 com.ibm.ast.ws.was9.policyset.ui,2.0.100.v20231128_1051,plugins/com.ibm.ast.ws.was9.policyset.ui_2.0.100.v20231128_1051.jar,4,false
 com.ibm.ast.ws.xml.editor,1.0.450.v20231128_1051,plugins/com.ibm.ast.ws.xml.editor_1.0.450.v20231128_1051.jar,4,false
 com.ibm.ccl.help.preferenceharvester,2.1.7.v20130205_1913,plugins/com.ibm.ccl.help.preferenceharvester_2.1.7.v20130205_1913.jar,4,false
@@ -64,6 +67,8 @@ com.ibm.etools.aries.rad.ext.ui,1.6.2.v20231128_1051,plugins/com.ibm.etools.arie
 com.ibm.etools.aries.ui,2.1.700.v20231128_1051,plugins/com.ibm.etools.aries.ui_2.1.700.v20231128_1051.jar,4,false
 com.ibm.etools.aries.websphere.core,2.1.0.v20231128_1051,plugins/com.ibm.etools.aries.websphere.core_2.1.0.v20231128_1051.jar,4,false
 com.ibm.etools.aries.websphere.ui,1.6.2.v20231128_1051,plugins/com.ibm.etools.aries.websphere.ui_1.6.2.v20231128_1051.jar,4,false
+com.ibm.etools.aries.websphere.v85.core,1.5.201.v20231128_1051,plugins/com.ibm.etools.aries.websphere.v85.core_1.5.201.v20231128_1051.jar,4,false
+com.ibm.etools.aries.websphere.v85.ui,1.5.200.v20231128_1051,plugins/com.ibm.etools.aries.websphere.v85.ui_1.5.200.v20231128_1051.jar,4,false
 com.ibm.etools.aries.websphere.v9.core,1.0.0.v20231128_1051,plugins/com.ibm.etools.aries.websphere.v9.core_1.0.0.v20231128_1051.jar,4,false
 com.ibm.etools.aries.websphere.v9.ui,1.0.0.v20231128_1051,plugins/com.ibm.etools.aries.websphere.v9.ui_1.0.0.v20231128_1051.jar,4,false
 com.ibm.etools.common.frameworks,1.0.300.v20231128_1051,plugins/com.ibm.etools.common.frameworks_1.0.300.v20231128_1051.jar,4,false
@@ -99,6 +104,7 @@ com.ibm.etools.webtools.json.core,1.0.200.v20231128_1051,plugins/com.ibm.etools.
 com.ibm.etools.webtools.json.ui,1.1.200.v20231128_1051,plugins/com.ibm.etools.webtools.json.ui_1.1.200.v20231128_1051.jar,4,false
 com.ibm.etools.wrd.websphere.core,2.1.101.v20231128_1051,plugins/com.ibm.etools.wrd.websphere.core_2.1.101.v20231128_1051/,4,false
 com.ibm.etools.wrd.websphere.core.util,1.0.300.v20231128_1051,plugins/com.ibm.etools.wrd.websphere.core.util_1.0.300.v20231128_1051.jar,4,false
+com.ibm.etools.wrd.websphere.v85,1.1.101.v20231128_1051,plugins/com.ibm.etools.wrd.websphere.v85_1.1.101.v20231128_1051/,4,false
 com.ibm.etools.wrd.websphere.v9,1.1.101.v20231128_1051,plugins/com.ibm.etools.wrd.websphere.v9_1.1.101.v20231128_1051/,4,false
 com.ibm.faceted.project.wizard,1.0.300.v20231128_1051,plugins/com.ibm.faceted.project.wizard_1.0.300.v20231128_1051.jar,4,false
 com.ibm.faceted.project.wizard.core,1.1.0.v20231128_1051,plugins/com.ibm.faceted.project.wizard.core_1.1.0.v20231128_1051.jar,4,false
@@ -192,6 +198,7 @@ com.ibm.ut.ic.server,1.1.10.v20130412_1700,plugins/com.ibm.ut.ic.server_1.1.10.v
 com.ibm.wdt.install,1.0.86.v20231128_1051,plugins/com.ibm.wdt.install_1.0.86.v20231128_1051.jar,4,false
 com.ibm.wdt.install.ui,1.0.12.v20231128_1051,plugins/com.ibm.wdt.install.ui_1.0.12.v20231128_1051.jar,4,false
 com.ibm.wdt.preferences,1.0.201.v20231128_1051,plugins/com.ibm.wdt.preferences_1.0.201.v20231128_1051.jar,4,false
+com.ibm.websphere.v85.core,1.0.200.v20231128_1051,plugins/com.ibm.websphere.v85.core_1.0.200.v20231128_1051/,4,false
 com.ibm.websphere.v9.core,1.100.1.v20231128_1051,plugins/com.ibm.websphere.v9.core_1.100.1.v20231128_1051/,4,false
 com.ibm.websphere.wdt.product.site,2.0.8.v20231128_1051,plugins/com.ibm.websphere.wdt.product.site_2.0.8.v20231128_1051.jar,4,false
 com.ibm.websphere.wdt.stubs,1.0.4.v20231128_1051,plugins/com.ibm.websphere.wdt.stubs_1.0.4.v20231128_1051/,4,false
@@ -238,6 +245,9 @@ com.ibm.ws.ast.st.core,7.2.101.v20231128_1051,plugins/com.ibm.ws.ast.st.core_7.2
 com.ibm.ws.ast.st.jmx.core,1.2.0.v20231128_1051,plugins/com.ibm.ws.ast.st.jmx.core_1.2.0.v20231128_1051.jar,4,false
 com.ibm.ws.ast.st.migration.ui,2.1.0.v20231128_1051,plugins/com.ibm.ws.ast.st.migration.ui_2.1.0.v20231128_1051.jar,4,false
 com.ibm.ws.ast.st.ui,6.2.0.v20231128_1051,plugins/com.ibm.ws.ast.st.ui_6.2.0.v20231128_1051.jar,4,false
+com.ibm.ws.ast.st.v85.core,1.0.401.v20231128_1051,plugins/com.ibm.ws.ast.st.v85.core_1.0.401.v20231128_1051.jar,4,false
+com.ibm.ws.ast.st.v85.ui,1.0.250.v20231128_1051,plugins/com.ibm.ws.ast.st.v85.ui_1.0.250.v20231128_1051.jar,4,false
+com.ibm.ws.ast.st.v85.wdt,1.3.102.v20231128_1051,plugins/com.ibm.ws.ast.st.v85.wdt_1.3.102.v20231128_1051.jar,4,false
 com.ibm.ws.ast.st.v9.core,1.0.53.v20231128_1051,plugins/com.ibm.ws.ast.st.v9.core_1.0.53.v20231128_1051.jar,4,false
 com.ibm.ws.ast.st.v9.ui,1.0.50.v20231128_1051,plugins/com.ibm.ws.ast.st.v9.ui_1.0.50.v20231128_1051.jar,4,false
 com.ibm.ws.ast.st.v9.wdt,1.1.102.v20231128_1051,plugins/com.ibm.ws.ast.st.v9.wdt_1.1.102.v20231128_1051.jar,4,false

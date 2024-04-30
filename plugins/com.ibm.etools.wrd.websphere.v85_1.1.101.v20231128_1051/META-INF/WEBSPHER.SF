@@ -1,0 +1,21 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: PjTqedKQN9YYh+/Sh8h0nPvM6T9z/
+ 4z7TPXj6Ej4ld0=
+SHA-256-Digest-Manifest: jyZOHjd+IZ8qpsg+EUhf12SCF66uNxOjOQgooYWRmuo=
+Created-By: 1.7.0 (IBM Corporation)
+
+Name: .options
+SHA-256-Digest: doKInTBO+ipT9cBER28P5G/GmeZXjYsH3KfXig472zU=
+
+Name: plugin.xml
+SHA-256-Digest: Ryhd0WgsoUCikN01TMOUNw6QHVQNUXJP0FN8R0F53Mw=
+
+Name: plugin.properties
+SHA-256-Digest: AMrbsHQEqxiwIDX0MV162uyTrUWAmNFliuXzJv5ICEU=
+
+Name: wrdwas.jar
+SHA-256-Digest: NtPW2Ya3vQ/m06XcmGoSuDgN7BZN8MnBlORiVPe4VUw=
+
+Name: implfactory.jar
+SHA-256-Digest: 2hEhhiUJF7k/Wa85Uc82V9lwSwwD7najpIV93RaS2xQ=
+

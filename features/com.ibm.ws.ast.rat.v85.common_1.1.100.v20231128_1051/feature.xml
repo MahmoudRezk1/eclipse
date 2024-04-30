@@ -1,0 +1,19 @@
+<feature id="com.ibm.ws.ast.rat.v85.common" image="rtFeatUpdate.gif" label="%featureName" provider-name="IBM" version="1.1.100.v20231128_1051">
+
+   <description>
+      %description
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.st.v85.core" install-size="0" unpack="false" version="1.0.401.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.ws.ast.st.v85.ui" install-size="0" unpack="false" version="1.0.250.v20231128_1051"/>
+
+   <plugin download-size="0" id="com.ibm.etools.wrd.websphere.v85" install-size="0" version="1.1.101.v20231128_1051"/>
+         
+    <plugin download-size="0" id="com.ibm.websphere.v85.core" install-size="0" version="1.0.200.v20231128_1051"/>
+
+</feature>
